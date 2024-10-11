@@ -1,0 +1,7618 @@
+[
+  {
+    "functionName": "get_source_secret_key_from_gpg",
+    "file": "encryption.py",
+    "callGraph": [
+      {
+        "file": "encryption.py",
+        "functionName": "get_source_secret_key_from_gpg",
+        "lines": [
+          {
+            "startLine": 135,
+            "endLine": 135
+          },
+          {
+            "startLine": 139,
+            "endLine": 139
+          },
+          {
+            "startLine": 142,
+            "endLine": 142
+          },
+          {
+            "startLine": 145,
+            "endLine": 145
+          }
+        ],
+        "replayTestFileNames": []
+      }
+    ],
+    "existingTestFile": "tests/test_encryption.py",
+    "replayTestFileNames": []
+  },
+  {
+    "functionName": "decrypt_journalist_reply",
+    "file": "encryption.py",
+    "callGraph": [
+      {
+        "file": "encryption.py",
+        "functionName": "decrypt_journalist_reply",
+        "lines": [
+          {
+            "startLine": 185,
+            "endLine": 188
+          },
+          {
+            "startLine": 190,
+            "endLine": 190
+          }
+        ],
+        "replayTestFileNames": []
+      }
+    ],
+    "existingTestFile": "tests/test_encryption.py",
+    "replayTestFileNames": []
+  },
+  {
+    "functionName": "display_name",
+    "replayTestFileNames": [],
+    "file": "i18n.py",
+    "callGraph": [
+      {
+        "file": "i18n.py",
+        "functionName": "display_name",
+        "lines": [
+          {
+            "startLine": 59,
+            "endLine": 59
+          }
+        ],
+        "replayTestFileNames": []
+      }
+    ]
+  },
+  {
+    "functionName": "configure_babel",
+    "replayTestFileNames": [],
+    "file": "i18n.py",
+    "callGraph": [
+      {
+        "file": "i18n.py",
+        "functionName": "configure_babel",
+        "lines": [
+          {
+            "startLine": 116,
+            "endLine": 116
+          }
+        ],
+        "replayTestFileNames": []
+      }
+    ]
+  },
+  {
+    "functionName": "validate_locale_configuration",
+    "replayTestFileNames": [],
+    "file": "i18n.py",
+    "callGraph": [
+      {
+        "file": "i18n.py",
+        "functionName": "validate_locale_configuration",
+        "lines": [
+          {
+            "startLine": 149,
+            "endLine": 149
+          },
+          {
+            "startLine": 155,
+            "endLine": 155
+          }
+        ],
+        "replayTestFileNames": []
+      }
+    ]
+  },
+  {
+    "functionName": "map_locale_display_names",
+    "replayTestFileNames": [],
+    "file": "i18n.py",
+    "callGraph": [
+      {
+        "file": "i18n.py",
+        "functionName": "map_locale_display_names",
+        "lines": [
+          {
+            "startLine": 185,
+            "endLine": 185
+          },
+          {
+            "startLine": 190,
+            "endLine": 190
+          }
+        ],
+        "replayTestFileNames": []
+      }
+    ]
+  },
+  {
+    "functionName": "get_locale",
+    "replayTestFileNames": [],
+    "file": "i18n.py",
+    "callGraph": [
+      {
+        "file": "i18n.py",
+        "functionName": "get_locale",
+        "lines": [
+          {
+            "startLine": 217,
+            "endLine": 217
+          },
+          {
+            "startLine": 227,
+            "endLine": 227
+          }
+        ],
+        "replayTestFileNames": []
+      }
+    ]
+  },
+  {
+    "functionName": "get_accepted_languages",
+    "replayTestFileNames": [],
+    "file": "i18n.py",
+    "callGraph": [
+      {
+        "file": "i18n.py",
+        "functionName": "get_accepted_languages",
+        "lines": [
+          {
+            "startLine": 238,
+            "endLine": 240
+          },
+          {
+            "startLine": 251,
+            "endLine": 254
+          }
+        ],
+        "replayTestFileNames": []
+      }
+    ]
+  },
+  {
+    "functionName": "get_logo_url",
+    "replayTestFileNames": [],
+    "file": "journalist_app/__init__.py",
+    "callGraph": [
+      {
+        "file": "journalist_app/__init__.py",
+        "functionName": "get_logo_url",
+        "lines": [
+          {
+            "startLine": 27,
+            "endLine": 28
+          },
+          {
+            "startLine": 30,
+            "endLine": 37
+          },
+          {
+            "startLine": 39,
+            "endLine": 39
+          }
+        ],
+        "replayTestFileNames": []
+      }
+    ]
+  },
+  {
+    "functionName": "create_app",
+    "replayTestFileNames": [],
+    "file": "journalist_app/__init__.py",
+    "callGraph": [
+      {
+        "file": "journalist_app/__init__.py",
+        "functionName": "create_app",
+        "lines": [
+          {
+            "startLine": 43,
+            "endLine": 43
+          },
+          {
+            "startLine": 49,
+            "endLine": 49
+          },
+          {
+            "startLine": 51,
+            "endLine": 53
+          },
+          {
+            "startLine": 55,
+            "endLine": 57
+          },
+          {
+            "startLine": 59,
+            "endLine": 59
+          },
+          {
+            "startLine": 62,
+            "endLine": 65
+          },
+          {
+            "startLine": 67,
+            "endLine": 67
+          },
+          {
+            "startLine": 69,
+            "endLine": 74
+          },
+          {
+            "startLine": 76,
+            "endLine": 76
+          },
+          {
+            "startLine": 84,
+            "endLine": 86
+          },
+          {
+            "startLine": 88,
+            "endLine": 88
+          },
+          {
+            "startLine": 90,
+            "endLine": 91
+          },
+          {
+            "startLine": 93,
+            "endLine": 93
+          },
+          {
+            "startLine": 95,
+            "endLine": 101
+          },
+          {
+            "startLine": 103,
+            "endLine": 105
+          },
+          {
+            "startLine": 107,
+            "endLine": 108
+          },
+          {
+            "startLine": 111,
+            "endLine": 111
+          },
+          {
+            "startLine": 113,
+            "endLine": 114
+          },
+          {
+            "startLine": 118,
+            "endLine": 118
+          },
+          {
+            "startLine": 120,
+            "endLine": 123
+          },
+          {
+            "startLine": 125,
+            "endLine": 129
+          },
+          {
+            "startLine": 131,
+            "endLine": 135
+          },
+          {
+            "startLine": 137,
+            "endLine": 137
+          },
+          {
+            "startLine": 139,
+            "endLine": 145
+          },
+          {
+            "startLine": 147,
+            "endLine": 147
+          }
+        ],
+        "replayTestFileNames": []
+      }
+    ]
+  },
+  {
+    "functionName": "make_blueprint",
+    "replayTestFileNames": [],
+    "file": "journalist_app/account.py",
+    "callGraph": [
+      {
+        "file": "journalist_app/account.py",
+        "functionName": "make_blueprint",
+        "lines": [
+          {
+            "startLine": 22,
+            "endLine": 22
+          },
+          {
+            "startLine": 24,
+            "endLine": 26
+          },
+          {
+            "startLine": 30,
+            "endLine": 31
+          },
+          {
+            "startLine": 33,
+            "endLine": 38
+          },
+          {
+            "startLine": 40,
+            "endLine": 45
+          },
+          {
+            "startLine": 47,
+            "endLine": 52
+          },
+          {
+            "startLine": 54,
+            "endLine": 55
+          },
+          {
+            "startLine": 63,
+            "endLine": 63
+          },
+          {
+            "startLine": 66,
+            "endLine": 69
+          },
+          {
+            "startLine": 72,
+            "endLine": 73
+          },
+          {
+            "startLine": 77,
+            "endLine": 77
+          },
+          {
+            "startLine": 79,
+            "endLine": 80
+          },
+          {
+            "startLine": 85,
+            "endLine": 85
+          },
+          {
+            "startLine": 92,
+            "endLine": 98
+          },
+          {
+            "startLine": 105,
+            "endLine": 106
+          },
+          {
+            "startLine": 113,
+            "endLine": 114
+          },
+          {
+            "startLine": 116,
+            "endLine": 116
+          },
+          {
+            "startLine": 118,
+            "endLine": 121
+          },
+          {
+            "startLine": 125,
+            "endLine": 125
+          },
+          {
+            "startLine": 127,
+            "endLine": 128
+          },
+          {
+            "startLine": 132,
+            "endLine": 132
+          },
+          {
+            "startLine": 134,
+            "endLine": 135
+          },
+          {
+            "startLine": 140,
+            "endLine": 140
+          },
+          {
+            "startLine": 142,
+            "endLine": 150
+          },
+          {
+            "startLine": 152,
+            "endLine": 152
+          },
+          {
+            "startLine": 154,
+            "endLine": 154
+          }
+        ],
+        "replayTestFileNames": []
+      }
+    ]
+  },
+  {
+    "functionName": "make_blueprint",
+    "replayTestFileNames": [],
+    "file": "journalist_app/admin.py",
+    "callGraph": [
+      {
+        "file": "journalist_app/admin.py",
+        "functionName": "make_blueprint",
+        "lines": [
+          {
+            "startLine": 46,
+            "endLine": 46
+          },
+          {
+            "startLine": 48,
+            "endLine": 52
+          },
+          {
+            "startLine": 54,
+            "endLine": 58
+          },
+          {
+            "startLine": 60,
+            "endLine": 60
+          },
+          {
+            "startLine": 63,
+            "endLine": 63
+          },
+          {
+            "startLine": 69,
+            "endLine": 69
+          },
+          {
+            "startLine": 72,
+            "endLine": 74
+          },
+          {
+            "startLine": 76,
+            "endLine": 83
+          },
+          {
+            "startLine": 89,
+            "endLine": 89
+          },
+          {
+            "startLine": 91,
+            "endLine": 94
+          },
+          {
+            "startLine": 102,
+            "endLine": 106
+          },
+          {
+            "startLine": 108,
+            "endLine": 108
+          },
+          {
+            "startLine": 110,
+            "endLine": 111
+          },
+          {
+            "startLine": 113,
+            "endLine": 113
+          },
+          {
+            "startLine": 115,
+            "endLine": 115
+          },
+          {
+            "startLine": 117,
+            "endLine": 119
+          },
+          {
+            "startLine": 121,
+            "endLine": 123
+          },
+          {
+            "startLine": 127,
+            "endLine": 127
+          },
+          {
+            "startLine": 129,
+            "endLine": 140
+          },
+          {
+            "startLine": 142,
+            "endLine": 145
+          },
+          {
+            "startLine": 147,
+            "endLine": 157
+          },
+          {
+            "startLine": 159,
+            "endLine": 164
+          },
+          {
+            "startLine": 172,
+            "endLine": 175
+          },
+          {
+            "startLine": 182,
+            "endLine": 185
+          },
+          {
+            "startLine": 193,
+            "endLine": 193
+          },
+          {
+            "startLine": 197,
+            "endLine": 199
+          },
+          {
+            "startLine": 201,
+            "endLine": 206
+          },
+          {
+            "startLine": 211,
+            "endLine": 211
+          },
+          {
+            "startLine": 219,
+            "endLine": 219
+          },
+          {
+            "startLine": 221,
+            "endLine": 223
+          },
+          {
+            "startLine": 232,
+            "endLine": 232
+          },
+          {
+            "startLine": 236,
+            "endLine": 236
+          },
+          {
+            "startLine": 240,
+            "endLine": 241
+          },
+          {
+            "startLine": 243,
+            "endLine": 245
+          },
+          {
+            "startLine": 253,
+            "endLine": 253
+          },
+          {
+            "startLine": 257,
+            "endLine": 260
+          },
+          {
+            "startLine": 263,
+            "endLine": 264
+          },
+          {
+            "startLine": 270,
+            "endLine": 270
+          },
+          {
+            "startLine": 272,
+            "endLine": 273
+          },
+          {
+            "startLine": 278,
+            "endLine": 278
+          },
+          {
+            "startLine": 286,
+            "endLine": 294
+          },
+          {
+            "startLine": 302,
+            "endLine": 304
+          },
+          {
+            "startLine": 311,
+            "endLine": 312
+          },
+          {
+            "startLine": 314,
+            "endLine": 314
+          },
+          {
+            "startLine": 316,
+            "endLine": 319
+          },
+          {
+            "startLine": 325,
+            "endLine": 325
+          },
+          {
+            "startLine": 327,
+            "endLine": 328
+          },
+          {
+            "startLine": 332,
+            "endLine": 332
+          },
+          {
+            "startLine": 334,
+            "endLine": 335
+          },
+          {
+            "startLine": 340,
+            "endLine": 340
+          },
+          {
+            "startLine": 342,
+            "endLine": 352
+          },
+          {
+            "startLine": 354,
+            "endLine": 354
+          },
+          {
+            "startLine": 356,
+            "endLine": 359
+          },
+          {
+            "startLine": 361,
+            "endLine": 363
+          },
+          {
+            "startLine": 365,
+            "endLine": 368
+          },
+          {
+            "startLine": 372,
+            "endLine": 372
+          },
+          {
+            "startLine": 374,
+            "endLine": 377
+          },
+          {
+            "startLine": 383,
+            "endLine": 383
+          },
+          {
+            "startLine": 385,
+            "endLine": 385
+          },
+          {
+            "startLine": 387,
+            "endLine": 391
+          },
+          {
+            "startLine": 393,
+            "endLine": 394
+          },
+          {
+            "startLine": 396,
+            "endLine": 402
+          },
+          {
+            "startLine": 404,
+            "endLine": 404
+          },
+          {
+            "startLine": 406,
+            "endLine": 406
+          },
+          {
+            "startLine": 408,
+            "endLine": 408
+          },
+          {
+            "startLine": 412,
+            "endLine": 413
+          },
+          {
+            "startLine": 415,
+            "endLine": 419
+          },
+          {
+            "startLine": 422,
+            "endLine": 425
+          },
+          {
+            "startLine": 429,
+            "endLine": 430
+          },
+          {
+            "startLine": 433,
+            "endLine": 433
+          },
+          {
+            "startLine": 436,
+            "endLine": 436
+          },
+          {
+            "startLine": 438,
+            "endLine": 441
+          },
+          {
+            "startLine": 446,
+            "endLine": 446
+          },
+          {
+            "startLine": 448,
+            "endLine": 454
+          },
+          {
+            "startLine": 456,
+            "endLine": 457
+          },
+          {
+            "startLine": 461,
+            "endLine": 461
+          },
+          {
+            "startLine": 463,
+            "endLine": 467
+          },
+          {
+            "startLine": 469,
+            "endLine": 473
+          },
+          {
+            "startLine": 477,
+            "endLine": 477
+          },
+          {
+            "startLine": 479,
+            "endLine": 479
+          }
+        ],
+        "replayTestFileNames": []
+      }
+    ]
+  },
+  {
+    "functionName": "get_or_404",
+    "replayTestFileNames": [],
+    "file": "journalist_app/api.py",
+    "callGraph": [
+      {
+        "file": "journalist_app/api.py",
+        "functionName": "get_or_404",
+        "lines": [
+          {
+            "startLine": 32,
+            "endLine": 35
+          }
+        ],
+        "replayTestFileNames": []
+      }
+    ]
+  },
+  {
+    "functionName": "make_blueprint",
+    "replayTestFileNames": [],
+    "file": "journalist_app/api.py",
+    "callGraph": [
+      {
+        "file": "journalist_app/api.py",
+        "functionName": "make_blueprint",
+        "lines": [
+          {
+            "startLine": 39,
+            "endLine": 39
+          },
+          {
+            "startLine": 41,
+            "endLine": 43
+          },
+          {
+            "startLine": 52,
+            "endLine": 52
+          },
+          {
+            "startLine": 55,
+            "endLine": 57
+          },
+          {
+            "startLine": 59,
+            "endLine": 60
+          },
+          {
+            "startLine": 66,
+            "endLine": 69
+          },
+          {
+            "startLine": 72,
+            "endLine": 75
+          },
+          {
+            "startLine": 77,
+            "endLine": 79
+          },
+          {
+            "startLine": 81,
+            "endLine": 83
+          },
+          {
+            "startLine": 85,
+            "endLine": 90
+          },
+          {
+            "startLine": 92,
+            "endLine": 93
+          },
+          {
+            "startLine": 95,
+            "endLine": 95
+          },
+          {
+            "startLine": 106,
+            "endLine": 108
+          },
+          {
+            "startLine": 110,
+            "endLine": 110
+          },
+          {
+            "startLine": 112,
+            "endLine": 113
+          },
+          {
+            "startLine": 120,
+            "endLine": 120
+          },
+          {
+            "startLine": 122,
+            "endLine": 125
+          },
+          {
+            "startLine": 127,
+            "endLine": 135
+          },
+          {
+            "startLine": 137,
+            "endLine": 137
+          },
+          {
+            "startLine": 139,
+            "endLine": 144
+          },
+          {
+            "startLine": 146,
+            "endLine": 151
+          },
+          {
+            "startLine": 153,
+            "endLine": 155
+          },
+          {
+            "startLine": 160,
+            "endLine": 165
+          },
+          {
+            "startLine": 167,
+            "endLine": 167
+          },
+          {
+            "startLine": 169,
+            "endLine": 172
+          },
+          {
+            "startLine": 177,
+            "endLine": 181
+          },
+          {
+            "startLine": 183,
+            "endLine": 186
+          },
+          {
+            "startLine": 188,
+            "endLine": 188
+          },
+          {
+            "startLine": 190,
+            "endLine": 190
+          },
+          {
+            "startLine": 194,
+            "endLine": 203
+          },
+          {
+            "startLine": 205,
+            "endLine": 205
+          },
+          {
+            "startLine": 207,
+            "endLine": 211
+          },
+          {
+            "startLine": 215,
+            "endLine": 218
+          },
+          {
+            "startLine": 220,
+            "endLine": 221
+          },
+          {
+            "startLine": 223,
+            "endLine": 225
+          },
+          {
+            "startLine": 227,
+            "endLine": 229
+          },
+          {
+            "startLine": 235,
+            "endLine": 236
+          },
+          {
+            "startLine": 239,
+            "endLine": 239
+          },
+          {
+            "startLine": 241,
+            "endLine": 241
+          },
+          {
+            "startLine": 243,
+            "endLine": 244
+          },
+          {
+            "startLine": 246,
+            "endLine": 250
+          },
+          {
+            "startLine": 252,
+            "endLine": 261
+          },
+          {
+            "startLine": 263,
+            "endLine": 263
+          },
+          {
+            "startLine": 265,
+            "endLine": 265
+          },
+          {
+            "startLine": 276,
+            "endLine": 276
+          },
+          {
+            "startLine": 278,
+            "endLine": 286
+          },
+          {
+            "startLine": 288,
+            "endLine": 288
+          },
+          {
+            "startLine": 290,
+            "endLine": 293
+          },
+          {
+            "startLine": 304,
+            "endLine": 307
+          },
+          {
+            "startLine": 312,
+            "endLine": 313
+          },
+          {
+            "startLine": 318,
+            "endLine": 320
+          },
+          {
+            "startLine": 322,
+            "endLine": 323
+          },
+          {
+            "startLine": 327,
+            "endLine": 332
+          },
+          {
+            "startLine": 334,
+            "endLine": 338
+          },
+          {
+            "startLine": 340,
+            "endLine": 344
+          },
+          {
+            "startLine": 347,
+            "endLine": 347
+          },
+          {
+            "startLine": 349,
+            "endLine": 349
+          },
+          {
+            "startLine": 351,
+            "endLine": 351
+          },
+          {
+            "startLine": 353,
+            "endLine": 355
+          },
+          {
+            "startLine": 357,
+            "endLine": 360
+          },
+          {
+            "startLine": 362,
+            "endLine": 365
+          },
+          {
+            "startLine": 367,
+            "endLine": 367
+          },
+          {
+            "startLine": 372,
+            "endLine": 372
+          },
+          {
+            "startLine": 374,
+            "endLine": 374
+          },
+          {
+            "startLine": 376,
+            "endLine": 377
+          },
+          {
+            "startLine": 379,
+            "endLine": 379
+          }
+        ],
+        "replayTestFileNames": []
+      }
+    ]
+  },
+  {
+    "functionName": "make_blueprint",
+    "replayTestFileNames": [],
+    "file": "journalist_app/col.py",
+    "callGraph": [
+      {
+        "file": "journalist_app/col.py",
+        "functionName": "make_blueprint",
+        "lines": [
+          {
+            "startLine": 40,
+            "endLine": 40
+          },
+          {
+            "startLine": 42,
+            "endLine": 46
+          },
+          {
+            "startLine": 48,
+            "endLine": 52
+          },
+          {
+            "startLine": 54,
+            "endLine": 58
+          },
+          {
+            "startLine": 60,
+            "endLine": 60
+          },
+          {
+            "startLine": 64,
+            "endLine": 65
+          },
+          {
+            "startLine": 67,
+            "endLine": 72
+          },
+          {
+            "startLine": 74,
+            "endLine": 74
+          },
+          {
+            "startLine": 89,
+            "endLine": 89
+          },
+          {
+            "startLine": 91,
+            "endLine": 93
+          },
+          {
+            "startLine": 101,
+            "endLine": 102
+          },
+          {
+            "startLine": 112,
+            "endLine": 112
+          },
+          {
+            "startLine": 115,
+            "endLine": 116
+          },
+          {
+            "startLine": 118,
+            "endLine": 119
+          },
+          {
+            "startLine": 121,
+            "endLine": 122
+          },
+          {
+            "startLine": 124,
+            "endLine": 125
+          },
+          {
+            "startLine": 131,
+            "endLine": 132
+          },
+          {
+            "startLine": 134,
+            "endLine": 136
+          },
+          {
+            "startLine": 143,
+            "endLine": 144
+          },
+          {
+            "startLine": 147,
+            "endLine": 154
+          },
+          {
+            "startLine": 156,
+            "endLine": 159
+          },
+          {
+            "startLine": 161,
+            "endLine": 161
+          },
+          {
+            "startLine": 166,
+            "endLine": 166
+          }
+        ],
+        "replayTestFileNames": []
+      }
+    ]
+  },
+  {
+    "functionName": "admin_required",
+    "replayTestFileNames": [],
+    "file": "journalist_app/decorators.py",
+    "callGraph": [
+      {
+        "file": "journalist_app/decorators.py",
+        "functionName": "admin_required",
+        "lines": [
+          {
+            "startLine": 10,
+            "endLine": 15
+          },
+          {
+            "startLine": 17,
+            "endLine": 17
+          }
+        ],
+        "replayTestFileNames": []
+      }
+    ]
+  },
+  {
+    "functionName": "make_blueprint",
+    "replayTestFileNames": [],
+    "file": "journalist_app/main.py",
+    "callGraph": [
+      {
+        "file": "journalist_app/main.py",
+        "functionName": "make_blueprint",
+        "lines": [
+          {
+            "startLine": 32,
+            "endLine": 32
+          },
+          {
+            "startLine": 34,
+            "endLine": 37
+          },
+          {
+            "startLine": 42,
+            "endLine": 43
+          },
+          {
+            "startLine": 50,
+            "endLine": 52
+          },
+          {
+            "startLine": 54,
+            "endLine": 56
+          },
+          {
+            "startLine": 58,
+            "endLine": 58
+          },
+          {
+            "startLine": 60,
+            "endLine": 63
+          },
+          {
+            "startLine": 65,
+            "endLine": 66
+          },
+          {
+            "startLine": 71,
+            "endLine": 71
+          },
+          {
+            "startLine": 80,
+            "endLine": 80
+          },
+          {
+            "startLine": 94,
+            "endLine": 96
+          },
+          {
+            "startLine": 100,
+            "endLine": 100
+          },
+          {
+            "startLine": 113,
+            "endLine": 115
+          },
+          {
+            "startLine": 117,
+            "endLine": 117
+          },
+          {
+            "startLine": 119,
+            "endLine": 120
+          },
+          {
+            "startLine": 134,
+            "endLine": 138
+          },
+          {
+            "startLine": 140,
+            "endLine": 142
+          },
+          {
+            "startLine": 148,
+            "endLine": 156
+          },
+          {
+            "startLine": 163,
+            "endLine": 163
+          },
+          {
+            "startLine": 168,
+            "endLine": 168
+          },
+          {
+            "startLine": 181,
+            "endLine": 181
+          },
+          {
+            "startLine": 183,
+            "endLine": 191
+          },
+          {
+            "startLine": 201,
+            "endLine": 202
+          },
+          {
+            "startLine": 213,
+            "endLine": 213
+          },
+          {
+            "startLine": 215,
+            "endLine": 215
+          },
+          {
+            "startLine": 217,
+            "endLine": 219
+          },
+          {
+            "startLine": 224,
+            "endLine": 225
+          },
+          {
+            "startLine": 227,
+            "endLine": 227
+          },
+          {
+            "startLine": 229,
+            "endLine": 231
+          },
+          {
+            "startLine": 237,
+            "endLine": 241
+          },
+          {
+            "startLine": 243,
+            "endLine": 243
+          }
+        ],
+        "replayTestFileNames": []
+      }
+    ]
+  },
+  {
+    "functionName": "get_token",
+    "replayTestFileNames": [],
+    "file": "journalist_app/sessions.py",
+    "callGraph": [
+      {
+        "file": "journalist_app/sessions.py",
+        "functionName": "get_token",
+        "lines": [
+          {
+            "startLine": 44,
+            "endLine": 44
+          }
+        ],
+        "replayTestFileNames": []
+      }
+    ]
+  },
+  {
+    "functionName": "get_lifetime",
+    "replayTestFileNames": [],
+    "file": "journalist_app/sessions.py",
+    "callGraph": [
+      {
+        "file": "journalist_app/sessions.py",
+        "functionName": "get_lifetime",
+        "lines": [
+          {
+            "startLine": 47,
+            "endLine": 47
+          }
+        ],
+        "replayTestFileNames": []
+      }
+    ]
+  },
+  {
+    "functionName": "set_user",
+    "replayTestFileNames": [],
+    "file": "journalist_app/sessions.py",
+    "callGraph": [
+      {
+        "file": "journalist_app/sessions.py",
+        "functionName": "set_user",
+        "lines": [
+          {
+            "startLine": 50,
+            "endLine": 52
+          },
+          {
+            "startLine": 54,
+            "endLine": 55
+          }
+        ],
+        "replayTestFileNames": []
+      }
+    ]
+  },
+  {
+    "functionName": "get_user",
+    "file": "journalist_app/sessions.py",
+    "callGraph": [
+      {
+        "file": "journalist_app/sessions.py",
+        "functionName": "get_user",
+        "lines": [
+          {
+            "startLine": 58,
+            "endLine": 58
+          }
+        ],
+        "replayTestFileNames": []
+      }
+    ],
+    "existingTestFile": "tests/test_two_factor_in_apps.py",
+    "replayTestFileNames": []
+  },
+  {
+    "functionName": "get_uid",
+    "replayTestFileNames": [],
+    "file": "journalist_app/sessions.py",
+    "callGraph": [
+      {
+        "file": "journalist_app/sessions.py",
+        "functionName": "get_uid",
+        "lines": [
+          {
+            "startLine": 61,
+            "endLine": 61
+          }
+        ],
+        "replayTestFileNames": []
+      }
+    ]
+  },
+  {
+    "functionName": "set_uid",
+    "replayTestFileNames": [],
+    "file": "journalist_app/sessions.py",
+    "callGraph": [
+      {
+        "file": "journalist_app/sessions.py",
+        "functionName": "set_uid",
+        "lines": [
+          {
+            "startLine": 64,
+            "endLine": 65
+          }
+        ],
+        "replayTestFileNames": []
+      }
+    ]
+  },
+  {
+    "functionName": "logged_in",
+    "replayTestFileNames": [],
+    "file": "journalist_app/sessions.py",
+    "callGraph": [
+      {
+        "file": "journalist_app/sessions.py",
+        "functionName": "logged_in",
+        "lines": [
+          {
+            "startLine": 68,
+            "endLine": 68
+          }
+        ],
+        "replayTestFileNames": []
+      }
+    ]
+  },
+  {
+    "functionName": "destroy",
+    "replayTestFileNames": [],
+    "file": "journalist_app/sessions.py",
+    "callGraph": [
+      {
+        "file": "journalist_app/sessions.py",
+        "functionName": "destroy",
+        "lines": [
+          {
+            "startLine": 74,
+            "endLine": 78
+          }
+        ],
+        "replayTestFileNames": []
+      }
+    ]
+  },
+  {
+    "functionName": "regenerate",
+    "replayTestFileNames": [],
+    "file": "journalist_app/sessions.py",
+    "callGraph": [
+      {
+        "file": "journalist_app/sessions.py",
+        "functionName": "regenerate",
+        "lines": [
+          {
+            "startLine": 81,
+            "endLine": 81
+          }
+        ],
+        "replayTestFileNames": []
+      }
+    ]
+  },
+  {
+    "functionName": "open_session",
+    "replayTestFileNames": [],
+    "file": "journalist_app/sessions.py",
+    "callGraph": [
+      {
+        "file": "journalist_app/sessions.py",
+        "functionName": "open_session",
+        "lines": [
+          {
+            "startLine": 133,
+            "endLine": 133
+          },
+          {
+            "startLine": 135,
+            "endLine": 143
+          },
+          {
+            "startLine": 145,
+            "endLine": 145
+          },
+          {
+            "startLine": 147,
+            "endLine": 154
+          },
+          {
+            "startLine": 156,
+            "endLine": 163
+          },
+          {
+            "startLine": 166,
+            "endLine": 167
+          }
+        ],
+        "replayTestFileNames": []
+      }
+    ]
+  },
+  {
+    "functionName": "save_session",
+    "replayTestFileNames": [],
+    "file": "journalist_app/sessions.py",
+    "callGraph": [
+      {
+        "file": "journalist_app/sessions.py",
+        "functionName": "save_session",
+        "lines": [
+          {
+            "startLine": 175,
+            "endLine": 182
+          },
+          {
+            "startLine": 185,
+            "endLine": 204
+          },
+          {
+            "startLine": 207,
+            "endLine": 210
+          }
+        ],
+        "replayTestFileNames": []
+      }
+    ]
+  },
+  {
+    "functionName": "logout_user",
+    "replayTestFileNames": [],
+    "file": "journalist_app/sessions.py",
+    "callGraph": [
+      {
+        "file": "journalist_app/sessions.py",
+        "functionName": "logout_user",
+        "lines": [
+          {
+            "startLine": 221,
+            "endLine": 221
+          },
+          {
+            "startLine": 224,
+            "endLine": 228
+          }
+        ],
+        "replayTestFileNames": []
+      }
+    ]
+  },
+  {
+    "functionName": "init_app",
+    "replayTestFileNames": [],
+    "file": "journalist_app/sessions.py",
+    "callGraph": [
+      {
+        "file": "journalist_app/sessions.py",
+        "functionName": "init_app",
+        "lines": [
+          {
+            "startLine": 241,
+            "endLine": 241
+          }
+        ],
+        "replayTestFileNames": []
+      }
+    ]
+  },
+  {
+    "functionName": "commit_account_changes",
+    "replayTestFileNames": [],
+    "file": "journalist_app/utils.py",
+    "callGraph": [
+      {
+        "file": "journalist_app/utils.py",
+        "functionName": "commit_account_changes",
+        "lines": [
+          {
+            "startLine": 39,
+            "endLine": 44
+          },
+          {
+            "startLine": 48,
+            "endLine": 49
+          },
+          {
+            "startLine": 51,
+            "endLine": 51
+          }
+        ],
+        "replayTestFileNames": []
+      }
+    ]
+  },
+  {
+    "functionName": "get_source",
+    "replayTestFileNames": [],
+    "file": "journalist_app/utils.py",
+    "callGraph": [
+      {
+        "file": "journalist_app/utils.py",
+        "functionName": "get_source",
+        "lines": [
+          {
+            "startLine": 63,
+            "endLine": 63
+          }
+        ],
+        "replayTestFileNames": []
+      }
+    ]
+  },
+  {
+    "functionName": "validate_user",
+    "replayTestFileNames": [],
+    "file": "journalist_app/utils.py",
+    "callGraph": [
+      {
+        "file": "journalist_app/utils.py",
+        "functionName": "validate_user",
+        "lines": [
+          {
+            "startLine": 81,
+            "endLine": 83
+          },
+          {
+            "startLine": 91,
+            "endLine": 92
+          },
+          {
+            "startLine": 94,
+            "endLine": 96
+          },
+          {
+            "startLine": 99,
+            "endLine": 99
+          },
+          {
+            "startLine": 104,
+            "endLine": 106
+          },
+          {
+            "startLine": 110,
+            "endLine": 114
+          },
+          {
+            "startLine": 118,
+            "endLine": 119
+          },
+          {
+            "startLine": 121,
+            "endLine": 122
+          }
+        ],
+        "replayTestFileNames": []
+      }
+    ]
+  },
+  {
+    "functionName": "validate_hotp_secret",
+    "replayTestFileNames": [],
+    "file": "journalist_app/utils.py",
+    "callGraph": [
+      {
+        "file": "journalist_app/utils.py",
+        "functionName": "validate_hotp_secret",
+        "lines": [
+          {
+            "startLine": 132,
+            "endLine": 133
+          },
+          {
+            "startLine": 135,
+            "endLine": 136
+          },
+          {
+            "startLine": 144,
+            "endLine": 144
+          },
+          {
+            "startLine": 146,
+            "endLine": 150
+          },
+          {
+            "startLine": 156,
+            "endLine": 156
+          },
+          {
+            "startLine": 158,
+            "endLine": 158
+          },
+          {
+            "startLine": 162,
+            "endLine": 164
+          }
+        ],
+        "replayTestFileNames": []
+      }
+    ]
+  },
+  {
+    "functionName": "mark_seen",
+    "file": "journalist_app/utils.py",
+    "callGraph": [
+      {
+        "file": "journalist_app/utils.py",
+        "functionName": "mark_seen",
+        "lines": [
+          {
+            "startLine": 171,
+            "endLine": 190
+          }
+        ],
+        "replayTestFileNames": []
+      }
+    ],
+    "existingTestFile": "tests/test_journalist.py",
+    "replayTestFileNames": []
+  },
+  {
+    "functionName": "download",
+    "replayTestFileNames": [],
+    "file": "journalist_app/utils.py",
+    "callGraph": [
+      {
+        "file": "journalist_app/utils.py",
+        "functionName": "download",
+        "lines": [
+          {
+            "startLine": 208,
+            "endLine": 211
+          },
+          {
+            "startLine": 221,
+            "endLine": 223
+          },
+          {
+            "startLine": 225,
+            "endLine": 225
+          },
+          {
+            "startLine": 229,
+            "endLine": 229
+          },
+          {
+            "startLine": 231,
+            "endLine": 231
+          }
+        ],
+        "replayTestFileNames": []
+      }
+    ]
+  },
+  {
+    "functionName": "delete_file_object",
+    "replayTestFileNames": [],
+    "file": "journalist_app/utils.py",
+    "callGraph": [
+      {
+        "file": "journalist_app/utils.py",
+        "functionName": "delete_file_object",
+        "lines": [
+          {
+            "startLine": 240,
+            "endLine": 245
+          },
+          {
+            "startLine": 247,
+            "endLine": 248
+          }
+        ],
+        "replayTestFileNames": []
+      }
+    ]
+  },
+  {
+    "functionName": "bulk_delete",
+    "replayTestFileNames": [],
+    "file": "journalist_app/utils.py",
+    "callGraph": [
+      {
+        "file": "journalist_app/utils.py",
+        "functionName": "bulk_delete",
+        "lines": [
+          {
+            "startLine": 254,
+            "endLine": 259
+          },
+          {
+            "startLine": 261,
+            "endLine": 262
+          },
+          {
+            "startLine": 266,
+            "endLine": 266
+          },
+          {
+            "startLine": 277,
+            "endLine": 278
+          },
+          {
+            "startLine": 281,
+            "endLine": 281
+          }
+        ],
+        "replayTestFileNames": []
+      }
+    ]
+  },
+  {
+    "functionName": "make_star_true",
+    "replayTestFileNames": [],
+    "file": "journalist_app/utils.py",
+    "callGraph": [
+      {
+        "file": "journalist_app/utils.py",
+        "functionName": "make_star_true",
+        "lines": [
+          {
+            "startLine": 285,
+            "endLine": 287
+          },
+          {
+            "startLine": 289,
+            "endLine": 290
+          }
+        ],
+        "replayTestFileNames": []
+      }
+    ]
+  },
+  {
+    "functionName": "make_star_false",
+    "replayTestFileNames": [],
+    "file": "journalist_app/utils.py",
+    "callGraph": [
+      {
+        "file": "journalist_app/utils.py",
+        "functionName": "make_star_false",
+        "lines": [
+          {
+            "startLine": 294,
+            "endLine": 299
+          }
+        ],
+        "replayTestFileNames": []
+      }
+    ]
+  },
+  {
+    "functionName": "col_star",
+    "replayTestFileNames": [],
+    "file": "journalist_app/utils.py",
+    "callGraph": [
+      {
+        "file": "journalist_app/utils.py",
+        "functionName": "col_star",
+        "lines": [
+          {
+            "startLine": 303,
+            "endLine": 304
+          },
+          {
+            "startLine": 306,
+            "endLine": 307
+          }
+        ],
+        "replayTestFileNames": []
+      }
+    ]
+  },
+  {
+    "functionName": "col_un_star",
+    "replayTestFileNames": [],
+    "file": "journalist_app/utils.py",
+    "callGraph": [
+      {
+        "file": "journalist_app/utils.py",
+        "functionName": "col_un_star",
+        "lines": [
+          {
+            "startLine": 311,
+            "endLine": 312
+          },
+          {
+            "startLine": 314,
+            "endLine": 315
+          }
+        ],
+        "replayTestFileNames": []
+      }
+    ]
+  },
+  {
+    "functionName": "col_delete",
+    "replayTestFileNames": [],
+    "file": "journalist_app/utils.py",
+    "callGraph": [
+      {
+        "file": "journalist_app/utils.py",
+        "functionName": "col_delete",
+        "lines": [
+          {
+            "startLine": 320,
+            "endLine": 321
+          },
+          {
+            "startLine": 323,
+            "endLine": 326
+          },
+          {
+            "startLine": 328,
+            "endLine": 328
+          },
+          {
+            "startLine": 330,
+            "endLine": 330
+          },
+          {
+            "startLine": 336,
+            "endLine": 336
+          },
+          {
+            "startLine": 347,
+            "endLine": 347
+          }
+        ],
+        "replayTestFileNames": []
+      }
+    ]
+  },
+  {
+    "functionName": "delete_source_files",
+    "replayTestFileNames": [],
+    "file": "journalist_app/utils.py",
+    "callGraph": [
+      {
+        "file": "journalist_app/utils.py",
+        "functionName": "delete_source_files",
+        "lines": [
+          {
+            "startLine": 352,
+            "endLine": 353
+          },
+          {
+            "startLine": 355,
+            "endLine": 359
+          }
+        ],
+        "replayTestFileNames": []
+      }
+    ]
+  },
+  {
+    "functionName": "col_delete_data",
+    "replayTestFileNames": [],
+    "file": "journalist_app/utils.py",
+    "callGraph": [
+      {
+        "file": "journalist_app/utils.py",
+        "functionName": "col_delete_data",
+        "lines": [
+          {
+            "startLine": 364,
+            "endLine": 365
+          },
+          {
+            "startLine": 376,
+            "endLine": 377
+          },
+          {
+            "startLine": 379,
+            "endLine": 379
+          },
+          {
+            "startLine": 390,
+            "endLine": 390
+          }
+        ],
+        "replayTestFileNames": []
+      }
+    ]
+  },
+  {
+    "functionName": "purge_deleted_sources",
+    "replayTestFileNames": [],
+    "file": "journalist_app/utils.py",
+    "callGraph": [
+      {
+        "file": "journalist_app/utils.py",
+        "functionName": "purge_deleted_sources",
+        "lines": [
+          {
+            "startLine": 413,
+            "endLine": 420
+          }
+        ],
+        "replayTestFileNames": []
+      }
+    ]
+  },
+  {
+    "functionName": "set_name",
+    "replayTestFileNames": [],
+    "file": "journalist_app/utils.py",
+    "callGraph": [
+      {
+        "file": "journalist_app/utils.py",
+        "functionName": "set_name",
+        "lines": [
+          {
+            "startLine": 424,
+            "endLine": 429
+          }
+        ],
+        "replayTestFileNames": []
+      }
+    ]
+  },
+  {
+    "functionName": "set_pending_password",
+    "replayTestFileNames": [],
+    "file": "journalist_app/utils.py",
+    "callGraph": [
+      {
+        "file": "journalist_app/utils.py",
+        "functionName": "set_pending_password",
+        "lines": [
+          {
+            "startLine": 442,
+            "endLine": 442
+          },
+          {
+            "startLine": 445,
+            "endLine": 446
+          },
+          {
+            "startLine": 448,
+            "endLine": 449
+          }
+        ],
+        "replayTestFileNames": []
+      }
+    ]
+  },
+  {
+    "functionName": "verify_pending_password",
+    "replayTestFileNames": [],
+    "file": "journalist_app/utils.py",
+    "callGraph": [
+      {
+        "file": "journalist_app/utils.py",
+        "functionName": "verify_pending_password",
+        "lines": [
+          {
+            "startLine": 453,
+            "endLine": 454
+          },
+          {
+            "startLine": 456,
+            "endLine": 464
+          }
+        ],
+        "replayTestFileNames": []
+      }
+    ]
+  },
+  {
+    "functionName": "set_diceware_password",
+    "replayTestFileNames": [],
+    "file": "journalist_app/utils.py",
+    "callGraph": [
+      {
+        "file": "journalist_app/utils.py",
+        "functionName": "set_diceware_password",
+        "lines": [
+          {
+            "startLine": 470,
+            "endLine": 471
+          },
+          {
+            "startLine": 474,
+            "endLine": 474
+          },
+          {
+            "startLine": 476,
+            "endLine": 478
+          },
+          {
+            "startLine": 482,
+            "endLine": 482
+          },
+          {
+            "startLine": 484,
+            "endLine": 487
+          },
+          {
+            "startLine": 495,
+            "endLine": 496
+          },
+          {
+            "startLine": 499,
+            "endLine": 500
+          },
+          {
+            "startLine": 518,
+            "endLine": 518
+          },
+          {
+            "startLine": 532,
+            "endLine": 532
+          }
+        ],
+        "replayTestFileNames": []
+      }
+    ]
+  },
+  {
+    "functionName": "col_download_unread",
+    "replayTestFileNames": [],
+    "file": "journalist_app/utils.py",
+    "callGraph": [
+      {
+        "file": "journalist_app/utils.py",
+        "functionName": "col_download_unread",
+        "lines": [
+          {
+            "startLine": 539,
+            "endLine": 539
+          },
+          {
+            "startLine": 546,
+            "endLine": 548
+          },
+          {
+            "startLine": 550,
+            "endLine": 550
+          }
+        ],
+        "replayTestFileNames": []
+      }
+    ]
+  },
+  {
+    "functionName": "col_download_all",
+    "replayTestFileNames": [],
+    "file": "journalist_app/utils.py",
+    "callGraph": [
+      {
+        "file": "journalist_app/utils.py",
+        "functionName": "col_download_all",
+        "lines": [
+          {
+            "startLine": 555,
+            "endLine": 557
+          },
+          {
+            "startLine": 563,
+            "endLine": 564
+          }
+        ],
+        "replayTestFileNames": []
+      }
+    ]
+  },
+  {
+    "functionName": "serve_file_with_etag",
+    "replayTestFileNames": [],
+    "file": "journalist_app/utils.py",
+    "callGraph": [
+      {
+        "file": "journalist_app/utils.py",
+        "functionName": "serve_file_with_etag",
+        "lines": [
+          {
+            "startLine": 568,
+            "endLine": 570
+          },
+          {
+            "startLine": 578,
+            "endLine": 579
+          },
+          {
+            "startLine": 581,
+            "endLine": 584
+          }
+        ],
+        "replayTestFileNames": []
+      }
+    ]
+  },
+  {
+    "functionName": "fraction",
+    "replayTestFileNames": [],
+    "file": "loaddata.py",
+    "callGraph": [
+      {
+        "file": "loaddata.py",
+        "functionName": "fraction",
+        "lines": [
+          {
+            "startLine": 45,
+            "endLine": 45
+          },
+          {
+            "startLine": 49,
+            "endLine": 52
+          }
+        ],
+        "replayTestFileNames": []
+      }
+    ]
+  },
+  {
+    "functionName": "non_negative_int",
+    "replayTestFileNames": [],
+    "file": "loaddata.py",
+    "callGraph": [
+      {
+        "file": "loaddata.py",
+        "functionName": "non_negative_int",
+        "lines": [
+          {
+            "startLine": 55,
+            "endLine": 55
+          },
+          {
+            "startLine": 59,
+            "endLine": 62
+          }
+        ],
+        "replayTestFileNames": []
+      }
+    ]
+  },
+  {
+    "functionName": "random_bool",
+    "replayTestFileNames": [],
+    "file": "loaddata.py",
+    "callGraph": [
+      {
+        "file": "loaddata.py",
+        "functionName": "random_bool",
+        "lines": [
+          {
+            "startLine": 65,
+            "endLine": 65
+          },
+          {
+            "startLine": 69,
+            "endLine": 69
+          }
+        ],
+        "replayTestFileNames": []
+      }
+    ]
+  },
+  {
+    "functionName": "random_chars",
+    "replayTestFileNames": [],
+    "file": "loaddata.py",
+    "callGraph": [
+      {
+        "file": "loaddata.py",
+        "functionName": "random_chars",
+        "lines": [
+          {
+            "startLine": 72,
+            "endLine": 72
+          },
+          {
+            "startLine": 76,
+            "endLine": 76
+          }
+        ],
+        "replayTestFileNames": []
+      }
+    ]
+  },
+  {
+    "functionName": "random_datetime",
+    "replayTestFileNames": [],
+    "file": "loaddata.py",
+    "callGraph": [
+      {
+        "file": "loaddata.py",
+        "functionName": "random_datetime",
+        "lines": [
+          {
+            "startLine": 79,
+            "endLine": 79
+          },
+          {
+            "startLine": 83,
+            "endLine": 84
+          },
+          {
+            "startLine": 86,
+            "endLine": 89
+          },
+          {
+            "startLine": 92,
+            "endLine": 92
+          },
+          {
+            "startLine": 94,
+            "endLine": 94
+          }
+        ],
+        "replayTestFileNames": []
+      }
+    ]
+  },
+  {
+    "functionName": "default_journalist_count",
+    "replayTestFileNames": [],
+    "file": "loaddata.py",
+    "callGraph": [
+      {
+        "file": "loaddata.py",
+        "functionName": "default_journalist_count",
+        "lines": [
+          {
+            "startLine": 105,
+            "endLine": 106
+          }
+        ],
+        "replayTestFileNames": []
+      }
+    ]
+  },
+  {
+    "functionName": "default_source_count",
+    "replayTestFileNames": [],
+    "file": "loaddata.py",
+    "callGraph": [
+      {
+        "file": "loaddata.py",
+        "functionName": "default_source_count",
+        "lines": [
+          {
+            "startLine": 109,
+            "endLine": 110
+          }
+        ],
+        "replayTestFileNames": []
+      }
+    ]
+  },
+  {
+    "functionName": "set_source_count",
+    "replayTestFileNames": [],
+    "file": "loaddata.py",
+    "callGraph": [
+      {
+        "file": "loaddata.py",
+        "functionName": "set_source_count",
+        "lines": [
+          {
+            "startLine": 113,
+            "endLine": 113
+          },
+          {
+            "startLine": 122,
+            "endLine": 124
+          }
+        ],
+        "replayTestFileNames": []
+      }
+    ]
+  },
+  {
+    "functionName": "add_journalist",
+    "replayTestFileNames": [],
+    "file": "loaddata.py",
+    "callGraph": [
+      {
+        "file": "loaddata.py",
+        "functionName": "add_journalist",
+        "lines": [
+          {
+            "startLine": 127,
+            "endLine": 127
+          },
+          {
+            "startLine": 137,
+            "endLine": 138
+          },
+          {
+            "startLine": 140,
+            "endLine": 140
+          },
+          {
+            "startLine": 147,
+            "endLine": 148
+          },
+          {
+            "startLine": 150,
+            "endLine": 153
+          },
+          {
+            "startLine": 155,
+            "endLine": 159
+          },
+          {
+            "startLine": 161,
+            "endLine": 161
+          },
+          {
+            "startLine": 171,
+            "endLine": 171
+          }
+        ],
+        "replayTestFileNames": []
+      }
+    ]
+  },
+  {
+    "functionName": "record_source_interaction",
+    "replayTestFileNames": [],
+    "file": "loaddata.py",
+    "callGraph": [
+      {
+        "file": "loaddata.py",
+        "functionName": "record_source_interaction",
+        "lines": [
+          {
+            "startLine": 174,
+            "endLine": 174
+          },
+          {
+            "startLine": 178,
+            "endLine": 181
+          }
+        ],
+        "replayTestFileNames": []
+      }
+    ]
+  },
+  {
+    "functionName": "submit_message",
+    "replayTestFileNames": [],
+    "file": "loaddata.py",
+    "callGraph": [
+      {
+        "file": "loaddata.py",
+        "functionName": "submit_message",
+        "lines": [
+          {
+            "startLine": 184,
+            "endLine": 184
+          },
+          {
+            "startLine": 188,
+            "endLine": 189
+          },
+          {
+            "startLine": 195,
+            "endLine": 196
+          },
+          {
+            "startLine": 198,
+            "endLine": 200
+          }
+        ],
+        "replayTestFileNames": []
+      }
+    ]
+  },
+  {
+    "functionName": "submit_file",
+    "replayTestFileNames": [],
+    "file": "loaddata.py",
+    "callGraph": [
+      {
+        "file": "loaddata.py",
+        "functionName": "submit_file",
+        "lines": [
+          {
+            "startLine": 203,
+            "endLine": 203
+          },
+          {
+            "startLine": 207,
+            "endLine": 209
+          },
+          {
+            "startLine": 211,
+            "endLine": 211
+          },
+          {
+            "startLine": 213,
+            "endLine": 213
+          },
+          {
+            "startLine": 221,
+            "endLine": 222
+          },
+          {
+            "startLine": 224,
+            "endLine": 226
+          }
+        ],
+        "replayTestFileNames": []
+      }
+    ]
+  },
+  {
+    "functionName": "add_reply",
+    "replayTestFileNames": [],
+    "file": "loaddata.py",
+    "callGraph": [
+      {
+        "file": "loaddata.py",
+        "functionName": "add_reply",
+        "lines": [
+          {
+            "startLine": 229,
+            "endLine": 229
+          },
+          {
+            "startLine": 235,
+            "endLine": 237
+          },
+          {
+            "startLine": 242,
+            "endLine": 243
+          },
+          {
+            "startLine": 246,
+            "endLine": 247
+          },
+          {
+            "startLine": 249,
+            "endLine": 251
+          },
+          {
+            "startLine": 253,
+            "endLine": 253
+          }
+        ],
+        "replayTestFileNames": []
+      }
+    ]
+  },
+  {
+    "functionName": "add_source",
+    "replayTestFileNames": [],
+    "file": "loaddata.py",
+    "callGraph": [
+      {
+        "file": "loaddata.py",
+        "functionName": "add_source",
+        "lines": [
+          {
+            "startLine": 256,
+            "endLine": 256
+          },
+          {
+            "startLine": 260,
+            "endLine": 261
+          },
+          {
+            "startLine": 266,
+            "endLine": 269
+          },
+          {
+            "startLine": 280,
+            "endLine": 280
+          },
+          {
+            "startLine": 283,
+            "endLine": 287
+          },
+          {
+            "startLine": 289,
+            "endLine": 289
+          }
+        ],
+        "replayTestFileNames": []
+      }
+    ]
+  },
+  {
+    "functionName": "star_source",
+    "replayTestFileNames": [],
+    "file": "loaddata.py",
+    "callGraph": [
+      {
+        "file": "loaddata.py",
+        "functionName": "star_source",
+        "lines": [
+          {
+            "startLine": 292,
+            "endLine": 292
+          },
+          {
+            "startLine": 296,
+            "endLine": 298
+          }
+        ],
+        "replayTestFileNames": []
+      }
+    ]
+  },
+  {
+    "functionName": "create_default_journalists",
+    "replayTestFileNames": [],
+    "file": "loaddata.py",
+    "callGraph": [
+      {
+        "file": "loaddata.py",
+        "functionName": "create_default_journalists",
+        "lines": [
+          {
+            "startLine": 301,
+            "endLine": 301
+          },
+          {
+            "startLine": 305,
+            "endLine": 310
+          },
+          {
+            "startLine": 312,
+            "endLine": 312
+          },
+          {
+            "startLine": 314,
+            "endLine": 319
+          },
+          {
+            "startLine": 321,
+            "endLine": 321
+          },
+          {
+            "startLine": 323,
+            "endLine": 324
+          },
+          {
+            "startLine": 327,
+            "endLine": 330
+          },
+          {
+            "startLine": 332,
+            "endLine": 332
+          },
+          {
+            "startLine": 334,
+            "endLine": 334
+          }
+        ],
+        "replayTestFileNames": []
+      }
+    ]
+  },
+  {
+    "functionName": "add_journalists",
+    "replayTestFileNames": [],
+    "file": "loaddata.py",
+    "callGraph": [
+      {
+        "file": "loaddata.py",
+        "functionName": "add_journalists",
+        "lines": [
+          {
+            "startLine": 337,
+            "endLine": 340
+          }
+        ],
+        "replayTestFileNames": []
+      }
+    ]
+  },
+  {
+    "functionName": "add_sources",
+    "replayTestFileNames": [],
+    "file": "loaddata.py",
+    "callGraph": [
+      {
+        "file": "loaddata.py",
+        "functionName": "add_sources",
+        "lines": [
+          {
+            "startLine": 343,
+            "endLine": 343
+          },
+          {
+            "startLine": 347,
+            "endLine": 347
+          },
+          {
+            "startLine": 349,
+            "endLine": 351
+          },
+          {
+            "startLine": 355,
+            "endLine": 355
+          },
+          {
+            "startLine": 359,
+            "endLine": 360
+          },
+          {
+            "startLine": 362,
+            "endLine": 364
+          },
+          {
+            "startLine": 366,
+            "endLine": 367
+          },
+          {
+            "startLine": 372,
+            "endLine": 372
+          },
+          {
+            "startLine": 374,
+            "endLine": 375
+          },
+          {
+            "startLine": 377,
+            "endLine": 381
+          },
+          {
+            "startLine": 383,
+            "endLine": 383
+          }
+        ],
+        "replayTestFileNames": []
+      }
+    ]
+  },
+  {
+    "functionName": "obtain_input",
+    "replayTestFileNames": [],
+    "file": "manage.py",
+    "callGraph": [
+      {
+        "file": "manage.py",
+        "functionName": "obtain_input",
+        "lines": [
+          {
+            "startLine": 48,
+            "endLine": 48
+          },
+          {
+            "startLine": 51,
+            "endLine": 51
+          }
+        ],
+        "replayTestFileNames": []
+      }
+    ]
+  },
+  {
+    "functionName": "reset",
+    "file": "manage.py",
+    "callGraph": [
+      {
+        "file": "manage.py",
+        "functionName": "reset",
+        "lines": [
+          {
+            "startLine": 54,
+            "endLine": 54
+          },
+          {
+            "startLine": 65,
+            "endLine": 65
+          },
+          {
+            "startLine": 68,
+            "endLine": 69
+          },
+          {
+            "startLine": 75,
+            "endLine": 81
+          },
+          {
+            "startLine": 83,
+            "endLine": 86
+          },
+          {
+            "startLine": 90,
+            "endLine": 90
+          },
+          {
+            "startLine": 92,
+            "endLine": 93
+          },
+          {
+            "startLine": 95,
+            "endLine": 95
+          },
+          {
+            "startLine": 99,
+            "endLine": 100
+          },
+          {
+            "startLine": 103,
+            "endLine": 103
+          },
+          {
+            "startLine": 106,
+            "endLine": 109
+          },
+          {
+            "startLine": 111,
+            "endLine": 112
+          },
+          {
+            "startLine": 115,
+            "endLine": 118
+          }
+        ],
+        "replayTestFileNames": []
+      }
+    ],
+    "existingTestFile": "tests/test_manage.py",
+    "replayTestFileNames": []
+  },
+  {
+    "functionName": "add_admin",
+    "replayTestFileNames": [],
+    "file": "manage.py",
+    "callGraph": [
+      {
+        "file": "manage.py",
+        "functionName": "add_admin",
+        "lines": [
+          {
+            "startLine": 121,
+            "endLine": 122
+          }
+        ],
+        "replayTestFileNames": []
+      }
+    ]
+  },
+  {
+    "functionName": "add_journalist",
+    "replayTestFileNames": [],
+    "file": "manage.py",
+    "callGraph": [
+      {
+        "file": "manage.py",
+        "functionName": "add_journalist",
+        "lines": [
+          {
+            "startLine": 125,
+            "endLine": 126
+          }
+        ],
+        "replayTestFileNames": []
+      }
+    ]
+  },
+  {
+    "functionName": "_get_username",
+    "file": "manage.py",
+    "callGraph": [
+      {
+        "file": "manage.py",
+        "functionName": "_get_username",
+        "lines": [
+          {
+            "startLine": 129,
+            "endLine": 129
+          },
+          {
+            "startLine": 131,
+            "endLine": 135
+          },
+          {
+            "startLine": 137,
+            "endLine": 137
+          }
+        ],
+        "replayTestFileNames": []
+      }
+    ],
+    "existingTestFile": "tests/test_manage.py",
+    "replayTestFileNames": []
+  },
+  {
+    "functionName": "_get_first_name",
+    "file": "manage.py",
+    "callGraph": [
+      {
+        "file": "manage.py",
+        "functionName": "_get_first_name",
+        "lines": [
+          {
+            "startLine": 140,
+            "endLine": 140
+          },
+          {
+            "startLine": 142,
+            "endLine": 149
+          }
+        ],
+        "replayTestFileNames": []
+      }
+    ],
+    "existingTestFile": "tests/test_manage.py",
+    "replayTestFileNames": []
+  },
+  {
+    "functionName": "_get_last_name",
+    "file": "manage.py",
+    "callGraph": [
+      {
+        "file": "manage.py",
+        "functionName": "_get_last_name",
+        "lines": [
+          {
+            "startLine": 152,
+            "endLine": 152
+          },
+          {
+            "startLine": 154,
+            "endLine": 161
+          }
+        ],
+        "replayTestFileNames": []
+      }
+    ],
+    "existingTestFile": "tests/test_manage.py",
+    "replayTestFileNames": []
+  },
+  {
+    "functionName": "_get_yubikey_usage",
+    "file": "manage.py",
+    "callGraph": [
+      {
+        "file": "manage.py",
+        "functionName": "_get_yubikey_usage",
+        "lines": [
+          {
+            "startLine": 164,
+            "endLine": 164
+          },
+          {
+            "startLine": 167,
+            "endLine": 167
+          },
+          {
+            "startLine": 170,
+            "endLine": 173
+          },
+          {
+            "startLine": 175,
+            "endLine": 175
+          }
+        ],
+        "replayTestFileNames": []
+      }
+    ],
+    "existingTestFile": "tests/test_manage.py",
+    "replayTestFileNames": []
+  },
+  {
+    "functionName": "_add_user",
+    "file": "manage.py",
+    "callGraph": [
+      {
+        "file": "manage.py",
+        "functionName": "_add_user",
+        "lines": [
+          {
+            "startLine": 178,
+            "endLine": 182
+          },
+          {
+            "startLine": 184,
+            "endLine": 186
+          },
+          {
+            "startLine": 188,
+            "endLine": 190
+          },
+          {
+            "startLine": 192,
+            "endLine": 192
+          },
+          {
+            "startLine": 195,
+            "endLine": 198
+          },
+          {
+            "startLine": 203,
+            "endLine": 205
+          },
+          {
+            "startLine": 207,
+            "endLine": 208
+          },
+          {
+            "startLine": 216,
+            "endLine": 221
+          },
+          {
+            "startLine": 223,
+            "endLine": 225
+          },
+          {
+            "startLine": 227,
+            "endLine": 228
+          },
+          {
+            "startLine": 230,
+            "endLine": 235
+          },
+          {
+            "startLine": 244,
+            "endLine": 244
+          }
+        ],
+        "replayTestFileNames": []
+      }
+    ],
+    "existingTestFile": "tests/test_manage.py",
+    "replayTestFileNames": []
+  },
+  {
+    "functionName": "_get_username_to_delete",
+    "file": "manage.py",
+    "callGraph": [
+      {
+        "file": "manage.py",
+        "functionName": "_get_username_to_delete",
+        "lines": [
+          {
+            "startLine": 247,
+            "endLine": 248
+          }
+        ],
+        "replayTestFileNames": []
+      }
+    ],
+    "existingTestFile": "tests/test_manage.py",
+    "replayTestFileNames": []
+  },
+  {
+    "functionName": "delete_user",
+    "file": "manage.py",
+    "callGraph": [
+      {
+        "file": "manage.py",
+        "functionName": "delete_user",
+        "lines": [
+          {
+            "startLine": 259,
+            "endLine": 259
+          },
+          {
+            "startLine": 261,
+            "endLine": 267
+          },
+          {
+            "startLine": 270,
+            "endLine": 271
+          },
+          {
+            "startLine": 274,
+            "endLine": 277
+          },
+          {
+            "startLine": 282,
+            "endLine": 285
+          },
+          {
+            "startLine": 287,
+            "endLine": 287
+          },
+          {
+            "startLine": 289,
+            "endLine": 290
+          }
+        ],
+        "replayTestFileNames": []
+      }
+    ],
+    "existingTestFile": "tests/test_manage.py",
+    "replayTestFileNames": []
+  },
+  {
+    "functionName": "clean_tmp",
+    "file": "manage.py",
+    "callGraph": [
+      {
+        "file": "manage.py",
+        "functionName": "clean_tmp",
+        "lines": [
+          {
+            "startLine": 293,
+            "endLine": 293
+          },
+          {
+            "startLine": 295,
+            "endLine": 297
+          },
+          {
+            "startLine": 299,
+            "endLine": 300
+          },
+          {
+            "startLine": 302,
+            "endLine": 306
+          },
+          {
+            "startLine": 308,
+            "endLine": 308
+          },
+          {
+            "startLine": 310,
+            "endLine": 310
+          }
+        ],
+        "replayTestFileNames": []
+      }
+    ],
+    "existingTestFile": "tests/test_manage.py",
+    "replayTestFileNames": []
+  },
+  {
+    "functionName": "init_db",
+    "replayTestFileNames": [],
+    "file": "manage.py",
+    "callGraph": [
+      {
+        "file": "manage.py",
+        "functionName": "init_db",
+        "lines": [
+          {
+            "startLine": 313,
+            "endLine": 319
+          }
+        ],
+        "replayTestFileNames": []
+      }
+    ]
+  },
+  {
+    "functionName": "get_args",
+    "file": "manage.py",
+    "callGraph": [
+      {
+        "file": "manage.py",
+        "functionName": "get_args",
+        "lines": [
+          {
+            "startLine": 322,
+            "endLine": 324
+          },
+          {
+            "startLine": 327,
+            "endLine": 328
+          },
+          {
+            "startLine": 333,
+            "endLine": 333
+          },
+          {
+            "startLine": 338,
+            "endLine": 338
+          },
+          {
+            "startLine": 340,
+            "endLine": 344
+          },
+          {
+            "startLine": 347,
+            "endLine": 350
+          },
+          {
+            "startLine": 353,
+            "endLine": 355
+          },
+          {
+            "startLine": 357,
+            "endLine": 357
+          },
+          {
+            "startLine": 360,
+            "endLine": 360
+          },
+          {
+            "startLine": 366,
+            "endLine": 366
+          },
+          {
+            "startLine": 368,
+            "endLine": 373
+          },
+          {
+            "startLine": 376,
+            "endLine": 377
+          },
+          {
+            "startLine": 379,
+            "endLine": 381
+          },
+          {
+            "startLine": 383,
+            "endLine": 383
+          },
+          {
+            "startLine": 386,
+            "endLine": 386
+          },
+          {
+            "startLine": 392,
+            "endLine": 392
+          },
+          {
+            "startLine": 395,
+            "endLine": 395
+          },
+          {
+            "startLine": 401,
+            "endLine": 402
+          }
+        ],
+        "replayTestFileNames": []
+      }
+    ],
+    "existingTestFile": "tests/test_manage.py",
+    "replayTestFileNames": []
+  },
+  {
+    "functionName": "set_clean_tmp_parser",
+    "replayTestFileNames": [],
+    "file": "manage.py",
+    "callGraph": [
+      {
+        "file": "manage.py",
+        "functionName": "set_clean_tmp_parser",
+        "lines": [
+          {
+            "startLine": 405,
+            "endLine": 406
+          },
+          {
+            "startLine": 408,
+            "endLine": 410
+          },
+          {
+            "startLine": 418,
+            "endLine": 418
+          },
+          {
+            "startLine": 423,
+            "endLine": 423
+          }
+        ],
+        "replayTestFileNames": []
+      }
+    ]
+  },
+  {
+    "functionName": "setup_verbosity",
+    "file": "manage.py",
+    "callGraph": [
+      {
+        "file": "manage.py",
+        "functionName": "setup_verbosity",
+        "lines": [
+          {
+            "startLine": 426,
+            "endLine": 428
+          },
+          {
+            "startLine": 430,
+            "endLine": 430
+          }
+        ],
+        "replayTestFileNames": []
+      }
+    ],
+    "existingTestFile": "tests/test_manage.py",
+    "replayTestFileNames": []
+  },
+  {
+    "functionName": "setup_verbosity",
+    "file": "manage.py",
+    "callGraph": [
+      {
+        "file": "manage.py",
+        "functionName": "setup_verbosity",
+        "lines": [
+          {
+            "startLine": 426,
+            "endLine": 428
+          },
+          {
+            "startLine": 430,
+            "endLine": 430
+          }
+        ],
+        "replayTestFileNames": []
+      }
+    ],
+    "existingTestFile": "tests/test_remove_pending_sources.py",
+    "replayTestFileNames": []
+  },
+  {
+    "functionName": "app_context",
+    "replayTestFileNames": [],
+    "file": "management/__init__.py",
+    "callGraph": [
+      {
+        "file": "management/__init__.py",
+        "functionName": "app_context",
+        "lines": [
+          {
+            "startLine": 8,
+            "endLine": 12
+          }
+        ],
+        "replayTestFileNames": []
+      }
+    ]
+  },
+  {
+    "functionName": "colorize",
+    "replayTestFileNames": [],
+    "file": "management/run.py",
+    "callGraph": [
+      {
+        "file": "management/run.py",
+        "functionName": "colorize",
+        "lines": [
+          {
+            "startLine": 13,
+            "endLine": 13
+          },
+          {
+            "startLine": 19,
+            "endLine": 19
+          },
+          {
+            "startLine": 40,
+            "endLine": 43
+          },
+          {
+            "startLine": 45,
+            "endLine": 45
+          }
+        ],
+        "replayTestFileNames": []
+      }
+    ]
+  },
+  {
+    "functionName": "remove_pending_sources",
+    "file": "management/sources.py",
+    "callGraph": [
+      {
+        "file": "management/sources.py",
+        "functionName": "remove_pending_sources",
+        "lines": [
+          {
+            "startLine": 10,
+            "endLine": 10
+          },
+          {
+            "startLine": 15,
+            "endLine": 16
+          },
+          {
+            "startLine": 18,
+            "endLine": 23
+          },
+          {
+            "startLine": 25,
+            "endLine": 26
+          }
+        ],
+        "replayTestFileNames": []
+      }
+    ],
+    "existingTestFile": "tests/test_remove_pending_sources.py",
+    "replayTestFileNames": []
+  },
+  {
+    "functionName": "find_pending_sources",
+    "replayTestFileNames": [],
+    "file": "management/sources.py",
+    "callGraph": [
+      {
+        "file": "management/sources.py",
+        "functionName": "find_pending_sources",
+        "lines": [
+          {
+            "startLine": 29,
+            "endLine": 29
+          },
+          {
+            "startLine": 33,
+            "endLine": 34
+          }
+        ],
+        "replayTestFileNames": []
+      }
+    ]
+  },
+  {
+    "functionName": "delete_pending_source",
+    "replayTestFileNames": [],
+    "file": "management/sources.py",
+    "callGraph": [
+      {
+        "file": "management/sources.py",
+        "functionName": "delete_pending_source",
+        "lines": [
+          {
+            "startLine": 42,
+            "endLine": 42
+          },
+          {
+            "startLine": 46,
+            "endLine": 53
+          }
+        ],
+        "replayTestFileNames": []
+      }
+    ]
+  },
+  {
+    "functionName": "find_disconnected_db_submissions",
+    "file": "management/submissions.py",
+    "callGraph": [
+      {
+        "file": "management/submissions.py",
+        "functionName": "find_disconnected_db_submissions",
+        "lines": [
+          {
+            "startLine": 16,
+            "endLine": 16
+          },
+          {
+            "startLine": 20,
+            "endLine": 20
+          },
+          {
+            "startLine": 22,
+            "endLine": 25
+          },
+          {
+            "startLine": 27,
+            "endLine": 27
+          }
+        ],
+        "replayTestFileNames": []
+      }
+    ],
+    "existingTestFile": "tests/test_submission_cleanup.py",
+    "replayTestFileNames": []
+  },
+  {
+    "functionName": "check_for_disconnected_db_submissions",
+    "replayTestFileNames": [],
+    "file": "management/submissions.py",
+    "callGraph": [
+      {
+        "file": "management/submissions.py",
+        "functionName": "check_for_disconnected_db_submissions",
+        "lines": [
+          {
+            "startLine": 30,
+            "endLine": 30
+          },
+          {
+            "startLine": 34,
+            "endLine": 37
+          },
+          {
+            "startLine": 42,
+            "endLine": 42
+          }
+        ],
+        "replayTestFileNames": []
+      }
+    ]
+  },
+  {
+    "functionName": "list_disconnected_db_submissions",
+    "replayTestFileNames": [],
+    "file": "management/submissions.py",
+    "callGraph": [
+      {
+        "file": "management/submissions.py",
+        "functionName": "list_disconnected_db_submissions",
+        "lines": [
+          {
+            "startLine": 45,
+            "endLine": 45
+          },
+          {
+            "startLine": 49,
+            "endLine": 52
+          },
+          {
+            "startLine": 56,
+            "endLine": 57
+          }
+        ],
+        "replayTestFileNames": []
+      }
+    ]
+  },
+  {
+    "functionName": "delete_disconnected_db_submissions",
+    "file": "management/submissions.py",
+    "callGraph": [
+      {
+        "file": "management/submissions.py",
+        "functionName": "delete_disconnected_db_submissions",
+        "lines": [
+          {
+            "startLine": 60,
+            "endLine": 60
+          },
+          {
+            "startLine": 64,
+            "endLine": 66
+          },
+          {
+            "startLine": 68,
+            "endLine": 73
+          },
+          {
+            "startLine": 76,
+            "endLine": 76
+          },
+          {
+            "startLine": 78,
+            "endLine": 78
+          }
+        ],
+        "replayTestFileNames": []
+      }
+    ],
+    "existingTestFile": "tests/test_submission_cleanup.py",
+    "replayTestFileNames": []
+  },
+  {
+    "functionName": "find_disconnected_fs_submissions",
+    "file": "management/submissions.py",
+    "callGraph": [
+      {
+        "file": "management/submissions.py",
+        "functionName": "find_disconnected_fs_submissions",
+        "lines": [
+          {
+            "startLine": 81,
+            "endLine": 81
+          },
+          {
+            "startLine": 85,
+            "endLine": 86
+          },
+          {
+            "startLine": 88,
+            "endLine": 89
+          },
+          {
+            "startLine": 91,
+            "endLine": 94
+          },
+          {
+            "startLine": 96,
+            "endLine": 100
+          },
+          {
+            "startLine": 102,
+            "endLine": 102
+          }
+        ],
+        "replayTestFileNames": []
+      }
+    ],
+    "existingTestFile": "tests/test_submission_cleanup.py",
+    "replayTestFileNames": []
+  },
+  {
+    "functionName": "check_for_disconnected_fs_submissions",
+    "replayTestFileNames": [],
+    "file": "management/submissions.py",
+    "callGraph": [
+      {
+        "file": "management/submissions.py",
+        "functionName": "check_for_disconnected_fs_submissions",
+        "lines": [
+          {
+            "startLine": 105,
+            "endLine": 105
+          },
+          {
+            "startLine": 109,
+            "endLine": 112
+          },
+          {
+            "startLine": 117,
+            "endLine": 117
+          }
+        ],
+        "replayTestFileNames": []
+      }
+    ]
+  },
+  {
+    "functionName": "list_disconnected_fs_submissions",
+    "replayTestFileNames": [],
+    "file": "management/submissions.py",
+    "callGraph": [
+      {
+        "file": "management/submissions.py",
+        "functionName": "list_disconnected_fs_submissions",
+        "lines": [
+          {
+            "startLine": 120,
+            "endLine": 120
+          },
+          {
+            "startLine": 124,
+            "endLine": 127
+          },
+          {
+            "startLine": 131,
+            "endLine": 132
+          }
+        ],
+        "replayTestFileNames": []
+      }
+    ]
+  },
+  {
+    "functionName": "delete_disconnected_fs_submissions",
+    "file": "management/submissions.py",
+    "callGraph": [
+      {
+        "file": "management/submissions.py",
+        "functionName": "delete_disconnected_fs_submissions",
+        "lines": [
+          {
+            "startLine": 135,
+            "endLine": 135
+          },
+          {
+            "startLine": 139,
+            "endLine": 162
+          },
+          {
+            "startLine": 167,
+            "endLine": 167
+          }
+        ],
+        "replayTestFileNames": []
+      }
+    ],
+    "existingTestFile": "tests/test_submission_cleanup.py",
+    "replayTestFileNames": []
+  },
+  {
+    "functionName": "were_there_submissions_today",
+    "file": "management/submissions.py",
+    "callGraph": [
+      {
+        "file": "management/submissions.py",
+        "functionName": "were_there_submissions_today",
+        "lines": [
+          {
+            "startLine": 170,
+            "endLine": 170
+          },
+          {
+            "startLine": 173,
+            "endLine": 174
+          },
+          {
+            "startLine": 180,
+            "endLine": 181
+          }
+        ],
+        "replayTestFileNames": []
+      }
+    ],
+    "existingTestFile": "tests/test_manage.py",
+    "replayTestFileNames": []
+  },
+  {
+    "functionName": "add_check_db_disconnect_parser",
+    "replayTestFileNames": [],
+    "file": "management/submissions.py",
+    "callGraph": [
+      {
+        "file": "management/submissions.py",
+        "functionName": "add_check_db_disconnect_parser",
+        "lines": [
+          {
+            "startLine": 184,
+            "endLine": 185
+          },
+          {
+            "startLine": 189,
+            "endLine": 189
+          }
+        ],
+        "replayTestFileNames": []
+      }
+    ]
+  },
+  {
+    "functionName": "add_check_fs_disconnect_parser",
+    "replayTestFileNames": [],
+    "file": "management/submissions.py",
+    "callGraph": [
+      {
+        "file": "management/submissions.py",
+        "functionName": "add_check_fs_disconnect_parser",
+        "lines": [
+          {
+            "startLine": 192,
+            "endLine": 193
+          },
+          {
+            "startLine": 197,
+            "endLine": 197
+          }
+        ],
+        "replayTestFileNames": []
+      }
+    ]
+  },
+  {
+    "functionName": "add_delete_db_disconnect_parser",
+    "replayTestFileNames": [],
+    "file": "management/submissions.py",
+    "callGraph": [
+      {
+        "file": "management/submissions.py",
+        "functionName": "add_delete_db_disconnect_parser",
+        "lines": [
+          {
+            "startLine": 200,
+            "endLine": 201
+          },
+          {
+            "startLine": 205,
+            "endLine": 206
+          }
+        ],
+        "replayTestFileNames": []
+      }
+    ]
+  },
+  {
+    "functionName": "add_delete_fs_disconnect_parser",
+    "replayTestFileNames": [],
+    "file": "management/submissions.py",
+    "callGraph": [
+      {
+        "file": "management/submissions.py",
+        "functionName": "add_delete_fs_disconnect_parser",
+        "lines": [
+          {
+            "startLine": 211,
+            "endLine": 212
+          },
+          {
+            "startLine": 216,
+            "endLine": 217
+          }
+        ],
+        "replayTestFileNames": []
+      }
+    ]
+  },
+  {
+    "functionName": "add_list_db_disconnect_parser",
+    "replayTestFileNames": [],
+    "file": "management/submissions.py",
+    "callGraph": [
+      {
+        "file": "management/submissions.py",
+        "functionName": "add_list_db_disconnect_parser",
+        "lines": [
+          {
+            "startLine": 222,
+            "endLine": 223
+          },
+          {
+            "startLine": 227,
+            "endLine": 227
+          }
+        ],
+        "replayTestFileNames": []
+      }
+    ]
+  },
+  {
+    "functionName": "add_list_fs_disconnect_parser",
+    "replayTestFileNames": [],
+    "file": "management/submissions.py",
+    "callGraph": [
+      {
+        "file": "management/submissions.py",
+        "functionName": "add_list_fs_disconnect_parser",
+        "lines": [
+          {
+            "startLine": 230,
+            "endLine": 231
+          },
+          {
+            "startLine": 235,
+            "endLine": 235
+          }
+        ],
+        "replayTestFileNames": []
+      }
+    ]
+  },
+  {
+    "functionName": "add_were_there_submissions_today",
+    "replayTestFileNames": [],
+    "file": "management/submissions.py",
+    "callGraph": [
+      {
+        "file": "management/submissions.py",
+        "functionName": "add_were_there_submissions_today",
+        "lines": [
+          {
+            "startLine": 238,
+            "endLine": 239
+          },
+          {
+            "startLine": 243,
+            "endLine": 243
+          }
+        ],
+        "replayTestFileNames": []
+      }
+    ]
+  },
+  {
+    "functionName": "get_one_or_else",
+    "file": "models.py",
+    "callGraph": [
+      {
+        "file": "models.py",
+        "functionName": "get_one_or_else",
+        "lines": [
+          {
+            "startLine": 38,
+            "endLine": 39
+          }
+        ],
+        "replayTestFileNames": []
+      }
+    ],
+    "existingTestFile": "tests/test_db.py",
+    "replayTestFileNames": []
+  },
+  {
+    "functionName": "documents_messages_count",
+    "replayTestFileNames": [],
+    "file": "models.py",
+    "callGraph": [
+      {
+        "file": "models.py",
+        "functionName": "documents_messages_count",
+        "lines": [
+          {
+            "startLine": 95,
+            "endLine": 101
+          }
+        ],
+        "replayTestFileNames": []
+      }
+    ]
+  },
+  {
+    "functionName": "collection",
+    "replayTestFileNames": [],
+    "file": "models.py",
+    "callGraph": [
+      {
+        "file": "models.py",
+        "functionName": "collection",
+        "lines": [
+          {
+            "startLine": 107,
+            "endLine": 111
+          }
+        ],
+        "replayTestFileNames": []
+      }
+    ]
+  },
+  {
+    "functionName": "public_key",
+    "file": "models.py",
+    "callGraph": [
+      {
+        "file": "models.py",
+        "functionName": "public_key",
+        "lines": [
+          {
+            "startLine": 128,
+            "endLine": 129
+          }
+        ],
+        "replayTestFileNames": []
+      }
+    ],
+    "existingTestFile": "tests/test_source.py",
+    "replayTestFileNames": []
+  },
+  {
+    "functionName": "to_json",
+    "replayTestFileNames": [],
+    "file": "models.py",
+    "callGraph": [
+      {
+        "file": "models.py",
+        "functionName": "to_json",
+        "lines": [
+          {
+            "startLine": 132,
+            "endLine": 132
+          },
+          {
+            "startLine": 134,
+            "endLine": 135
+          },
+          {
+            "startLine": 137,
+            "endLine": 137
+          },
+          {
+            "startLine": 139,
+            "endLine": 140
+          },
+          {
+            "startLine": 142,
+            "endLine": 142
+          },
+          {
+            "startLine": 144,
+            "endLine": 144
+          }
+        ],
+        "replayTestFileNames": []
+      }
+    ]
+  },
+  {
+    "functionName": "is_file",
+    "replayTestFileNames": [],
+    "file": "models.py",
+    "callGraph": [
+      {
+        "file": "models.py",
+        "functionName": "is_file",
+        "lines": [
+          {
+            "startLine": 196,
+            "endLine": 196
+          }
+        ],
+        "replayTestFileNames": []
+      }
+    ]
+  },
+  {
+    "functionName": "is_message",
+    "replayTestFileNames": [],
+    "file": "models.py",
+    "callGraph": [
+      {
+        "file": "models.py",
+        "functionName": "is_message",
+        "lines": [
+          {
+            "startLine": 200,
+            "endLine": 200
+          }
+        ],
+        "replayTestFileNames": []
+      }
+    ]
+  },
+  {
+    "functionName": "to_json",
+    "replayTestFileNames": [],
+    "file": "models.py",
+    "callGraph": [
+      {
+        "file": "models.py",
+        "functionName": "to_json",
+        "lines": [
+          {
+            "startLine": 203,
+            "endLine": 203
+          },
+          {
+            "startLine": 208,
+            "endLine": 208
+          },
+          {
+            "startLine": 215,
+            "endLine": 215
+          }
+        ],
+        "replayTestFileNames": []
+      }
+    ]
+  },
+  {
+    "functionName": "seen",
+    "replayTestFileNames": [],
+    "file": "models.py",
+    "callGraph": [
+      {
+        "file": "models.py",
+        "functionName": "seen",
+        "lines": [
+          {
+            "startLine": 252,
+            "endLine": 252
+          }
+        ],
+        "replayTestFileNames": []
+      }
+    ]
+  },
+  {
+    "functionName": "to_json",
+    "replayTestFileNames": [],
+    "file": "models.py",
+    "callGraph": [
+      {
+        "file": "models.py",
+        "functionName": "to_json",
+        "lines": [
+          {
+            "startLine": 290,
+            "endLine": 291
+          }
+        ],
+        "replayTestFileNames": []
+      }
+    ]
+  },
+  {
+    "functionName": "_scrypt_hash",
+    "file": "models.py",
+    "callGraph": [
+      {
+        "file": "models.py",
+        "functionName": "_scrypt_hash",
+        "lines": [
+          {
+            "startLine": 441,
+            "endLine": 442
+          },
+          {
+            "startLine": 450,
+            "endLine": 450
+          }
+        ],
+        "replayTestFileNames": []
+      }
+    ],
+    "existingTestFile": "tests/test_journalist.py",
+    "replayTestFileNames": []
+  },
+  {
+    "functionName": "set_password",
+    "file": "models.py",
+    "callGraph": [
+      {
+        "file": "models.py",
+        "functionName": "set_password",
+        "lines": [
+          {
+            "startLine": 457,
+            "endLine": 457
+          },
+          {
+            "startLine": 474,
+            "endLine": 474
+          }
+        ],
+        "replayTestFileNames": []
+      }
+    ],
+    "existingTestFile": "tests/test_journalist.py",
+    "replayTestFileNames": []
+  },
+  {
+    "functionName": "set_name",
+    "replayTestFileNames": [],
+    "file": "models.py",
+    "callGraph": [
+      {
+        "file": "models.py",
+        "functionName": "set_name",
+        "lines": [
+          {
+            "startLine": 477,
+            "endLine": 482
+          }
+        ],
+        "replayTestFileNames": []
+      }
+    ]
+  },
+  {
+    "functionName": "check_username_acceptable",
+    "replayTestFileNames": [],
+    "file": "models.py",
+    "callGraph": [
+      {
+        "file": "models.py",
+        "functionName": "check_username_acceptable",
+        "lines": [
+          {
+            "startLine": 487,
+            "endLine": 487
+          },
+          {
+            "startLine": 495,
+            "endLine": 495
+          }
+        ],
+        "replayTestFileNames": []
+      }
+    ]
+  },
+  {
+    "functionName": "check_name_acceptable",
+    "replayTestFileNames": [],
+    "file": "models.py",
+    "callGraph": [
+      {
+        "file": "models.py",
+        "functionName": "check_name_acceptable",
+        "lines": [
+          {
+            "startLine": 505,
+            "endLine": 506
+          }
+        ],
+        "replayTestFileNames": []
+      }
+    ]
+  },
+  {
+    "functionName": "check_password_acceptable",
+    "replayTestFileNames": [],
+    "file": "models.py",
+    "callGraph": [
+      {
+        "file": "models.py",
+        "functionName": "check_password_acceptable",
+        "lines": [
+          {
+            "startLine": 512,
+            "endLine": 512
+          },
+          {
+            "startLine": 516,
+            "endLine": 516
+          },
+          {
+            "startLine": 520,
+            "endLine": 520
+          }
+        ],
+        "replayTestFileNames": []
+      }
+    ]
+  },
+  {
+    "functionName": "valid_password",
+    "file": "models.py",
+    "callGraph": [
+      {
+        "file": "models.py",
+        "functionName": "valid_password",
+        "lines": [
+          {
+            "startLine": 524,
+            "endLine": 524
+          },
+          {
+            "startLine": 528,
+            "endLine": 528
+          },
+          {
+            "startLine": 538,
+            "endLine": 539
+          },
+          {
+            "startLine": 542,
+            "endLine": 543
+          },
+          {
+            "startLine": 548,
+            "endLine": 549
+          },
+          {
+            "startLine": 551,
+            "endLine": 551
+          },
+          {
+            "startLine": 555,
+            "endLine": 555
+          },
+          {
+            "startLine": 563,
+            "endLine": 564
+          },
+          {
+            "startLine": 569,
+            "endLine": 572
+          },
+          {
+            "startLine": 575,
+            "endLine": 576
+          }
+        ],
+        "replayTestFileNames": []
+      }
+    ],
+    "existingTestFile": "tests/test_journalist.py",
+    "replayTestFileNames": []
+  },
+  {
+    "functionName": "regenerate_totp_shared_secret",
+    "replayTestFileNames": [],
+    "file": "models.py",
+    "callGraph": [
+      {
+        "file": "models.py",
+        "functionName": "regenerate_totp_shared_secret",
+        "lines": [
+          {
+            "startLine": 581,
+            "endLine": 581
+          }
+        ],
+        "replayTestFileNames": []
+      }
+    ]
+  },
+  {
+    "functionName": "set_hotp_secret",
+    "replayTestFileNames": [],
+    "file": "models.py",
+    "callGraph": [
+      {
+        "file": "models.py",
+        "functionName": "set_hotp_secret",
+        "lines": [
+          {
+            "startLine": 584,
+            "endLine": 584
+          },
+          {
+            "startLine": 587,
+            "endLine": 588
+          }
+        ],
+        "replayTestFileNames": []
+      }
+    ]
+  },
+  {
+    "functionName": "totp",
+    "replayTestFileNames": [],
+    "file": "models.py",
+    "callGraph": [
+      {
+        "file": "models.py",
+        "functionName": "totp",
+        "lines": [
+          {
+            "startLine": 592,
+            "endLine": 593
+          },
+          {
+            "startLine": 595,
+            "endLine": 595
+          }
+        ],
+        "replayTestFileNames": []
+      }
+    ]
+  },
+  {
+    "functionName": "hotp",
+    "replayTestFileNames": [],
+    "file": "models.py",
+    "callGraph": [
+      {
+        "file": "models.py",
+        "functionName": "hotp",
+        "lines": [
+          {
+            "startLine": 599,
+            "endLine": 600
+          },
+          {
+            "startLine": 602,
+            "endLine": 602
+          }
+        ],
+        "replayTestFileNames": []
+      }
+    ]
+  },
+  {
+    "functionName": "formatted_otp_secret",
+    "replayTestFileNames": [],
+    "file": "models.py",
+    "callGraph": [
+      {
+        "file": "models.py",
+        "functionName": "formatted_otp_secret",
+        "lines": [
+          {
+            "startLine": 606,
+            "endLine": 606
+          }
+        ],
+        "replayTestFileNames": []
+      }
+    ]
+  },
+  {
+    "functionName": "verify_2fa_token",
+    "replayTestFileNames": [],
+    "file": "models.py",
+    "callGraph": [
+      {
+        "file": "models.py",
+        "functionName": "verify_2fa_token",
+        "lines": [
+          {
+            "startLine": 609,
+            "endLine": 610
+          },
+          {
+            "startLine": 613,
+            "endLine": 613
+          },
+          {
+            "startLine": 616,
+            "endLine": 617
+          },
+          {
+            "startLine": 619,
+            "endLine": 619
+          },
+          {
+            "startLine": 621,
+            "endLine": 621
+          },
+          {
+            "startLine": 624,
+            "endLine": 626
+          },
+          {
+            "startLine": 628,
+            "endLine": 628
+          }
+        ],
+        "replayTestFileNames": []
+      }
+    ]
+  },
+  {
+    "functionName": "throttle_login",
+    "file": "models.py",
+    "callGraph": [
+      {
+        "file": "models.py",
+        "functionName": "throttle_login",
+        "lines": [
+          {
+            "startLine": 636,
+            "endLine": 638
+          },
+          {
+            "startLine": 641,
+            "endLine": 641
+          },
+          {
+            "startLine": 644,
+            "endLine": 644
+          },
+          {
+            "startLine": 649,
+            "endLine": 650
+          }
+        ],
+        "replayTestFileNames": []
+      }
+    ],
+    "existingTestFile": "tests/test_db.py",
+    "replayTestFileNames": []
+  },
+  {
+    "functionName": "login",
+    "file": "models.py",
+    "callGraph": [
+      {
+        "file": "models.py",
+        "functionName": "login",
+        "lines": [
+          {
+            "startLine": 662,
+            "endLine": 665
+          },
+          {
+            "startLine": 667,
+            "endLine": 668
+          },
+          {
+            "startLine": 671,
+            "endLine": 671
+          },
+          {
+            "startLine": 673,
+            "endLine": 673
+          },
+          {
+            "startLine": 676,
+            "endLine": 677
+          },
+          {
+            "startLine": 679,
+            "endLine": 680
+          },
+          {
+            "startLine": 682,
+            "endLine": 682
+          }
+        ],
+        "replayTestFileNames": []
+      }
+    ],
+    "existingTestFile": "tests/test_journalist.py",
+    "replayTestFileNames": []
+  },
+  {
+    "functionName": "login",
+    "file": "models.py",
+    "callGraph": [
+      {
+        "file": "models.py",
+        "functionName": "login",
+        "lines": [
+          {
+            "startLine": 662,
+            "endLine": 665
+          },
+          {
+            "startLine": 667,
+            "endLine": 668
+          },
+          {
+            "startLine": 671,
+            "endLine": 671
+          },
+          {
+            "startLine": 673,
+            "endLine": 673
+          },
+          {
+            "startLine": 676,
+            "endLine": 677
+          },
+          {
+            "startLine": 679,
+            "endLine": 680
+          },
+          {
+            "startLine": 682,
+            "endLine": 682
+          }
+        ],
+        "replayTestFileNames": []
+      }
+    ],
+    "existingTestFile": "tests/test_two_factor_in_apps.py",
+    "replayTestFileNames": []
+  },
+  {
+    "functionName": "to_json",
+    "replayTestFileNames": [],
+    "file": "models.py",
+    "callGraph": [
+      {
+        "file": "models.py",
+        "functionName": "to_json",
+        "lines": [
+          {
+            "startLine": 688,
+            "endLine": 688
+          },
+          {
+            "startLine": 695,
+            "endLine": 698
+          },
+          {
+            "startLine": 700,
+            "endLine": 700
+          },
+          {
+            "startLine": 702,
+            "endLine": 702
+          }
+        ],
+        "replayTestFileNames": []
+      }
+    ]
+  },
+  {
+    "functionName": "is_deleted_user",
+    "replayTestFileNames": [],
+    "file": "models.py",
+    "callGraph": [
+      {
+        "file": "models.py",
+        "functionName": "is_deleted_user",
+        "lines": [
+          {
+            "startLine": 706,
+            "endLine": 706
+          }
+        ],
+        "replayTestFileNames": []
+      }
+    ]
+  },
+  {
+    "functionName": "get_deleted",
+    "file": "models.py",
+    "callGraph": [
+      {
+        "file": "models.py",
+        "functionName": "get_deleted",
+        "lines": [
+          {
+            "startLine": 714,
+            "endLine": 715
+          },
+          {
+            "startLine": 717,
+            "endLine": 717
+          },
+          {
+            "startLine": 725,
+            "endLine": 727
+          }
+        ],
+        "replayTestFileNames": []
+      }
+    ],
+    "existingTestFile": "tests/test_journalist.py",
+    "replayTestFileNames": []
+  },
+  {
+    "functionName": "get_deleted",
+    "file": "models.py",
+    "callGraph": [
+      {
+        "file": "models.py",
+        "functionName": "get_deleted",
+        "lines": [
+          {
+            "startLine": 714,
+            "endLine": 715
+          },
+          {
+            "startLine": 717,
+            "endLine": 717
+          },
+          {
+            "startLine": 725,
+            "endLine": 727
+          }
+        ],
+        "replayTestFileNames": []
+      }
+    ],
+    "existingTestFile": "tests/test_journalist_api.py",
+    "replayTestFileNames": []
+  },
+  {
+    "functionName": "delete",
+    "file": "models.py",
+    "callGraph": [
+      {
+        "file": "models.py",
+        "functionName": "delete",
+        "lines": [
+          {
+            "startLine": 734,
+            "endLine": 734
+          },
+          {
+            "startLine": 736,
+            "endLine": 738
+          },
+          {
+            "startLine": 742,
+            "endLine": 742
+          },
+          {
+            "startLine": 745,
+            "endLine": 747
+          },
+          {
+            "startLine": 749,
+            "endLine": 750
+          },
+          {
+            "startLine": 752,
+            "endLine": 752
+          },
+          {
+            "startLine": 756,
+            "endLine": 758
+          },
+          {
+            "startLine": 760,
+            "endLine": 761
+          },
+          {
+            "startLine": 763,
+            "endLine": 763
+          },
+          {
+            "startLine": 766,
+            "endLine": 768
+          },
+          {
+            "startLine": 770,
+            "endLine": 771
+          },
+          {
+            "startLine": 774,
+            "endLine": 774
+          }
+        ],
+        "replayTestFileNames": []
+      }
+    ],
+    "existingTestFile": "tests/test_journalist.py",
+    "replayTestFileNames": []
+  },
+  {
+    "functionName": "get_current",
+    "file": "models.py",
+    "callGraph": [
+      {
+        "file": "models.py",
+        "functionName": "get_current",
+        "lines": [
+          {
+            "startLine": 900,
+            "endLine": 901
+          }
+        ],
+        "replayTestFileNames": []
+      }
+    ],
+    "existingTestFile": "tests/test_db.py",
+    "replayTestFileNames": []
+  },
+  {
+    "functionName": "get_current",
+    "file": "models.py",
+    "callGraph": [
+      {
+        "file": "models.py",
+        "functionName": "get_current",
+        "lines": [
+          {
+            "startLine": 900,
+            "endLine": 901
+          }
+        ],
+        "replayTestFileNames": []
+      }
+    ],
+    "existingTestFile": "tests/test_journalist.py",
+    "replayTestFileNames": []
+  },
+  {
+    "functionName": "get_current",
+    "file": "models.py",
+    "callGraph": [
+      {
+        "file": "models.py",
+        "functionName": "get_current",
+        "lines": [
+          {
+            "startLine": 900,
+            "endLine": 901
+          }
+        ],
+        "replayTestFileNames": []
+      }
+    ],
+    "existingTestFile": "tests/test_source.py",
+    "replayTestFileNames": []
+  },
+  {
+    "functionName": "check_name_acceptable",
+    "replayTestFileNames": [],
+    "file": "models.py",
+    "callGraph": [
+      {
+        "file": "models.py",
+        "functionName": "check_name_acceptable",
+        "lines": [
+          {
+            "startLine": 906,
+            "endLine": 909
+          }
+        ],
+        "replayTestFileNames": []
+      }
+    ]
+  },
+  {
+    "functionName": "set_organization_name",
+    "replayTestFileNames": [],
+    "file": "models.py",
+    "callGraph": [
+      {
+        "file": "models.py",
+        "functionName": "set_organization_name",
+        "lines": [
+          {
+            "startLine": 917,
+            "endLine": 919
+          },
+          {
+            "startLine": 921,
+            "endLine": 924
+          },
+          {
+            "startLine": 926,
+            "endLine": 926
+          }
+        ],
+        "replayTestFileNames": []
+      }
+    ]
+  },
+  {
+    "functionName": "available_languages",
+    "file": "passphrases.py",
+    "callGraph": [
+      {
+        "file": "passphrases.py",
+        "functionName": "available_languages",
+        "lines": [
+          {
+            "startLine": 99,
+            "endLine": 99
+          }
+        ],
+        "replayTestFileNames": []
+      }
+    ],
+    "existingTestFile": "tests/test_passphrases.py",
+    "replayTestFileNames": []
+  },
+  {
+    "functionName": "generate_passphrase",
+    "file": "passphrases.py",
+    "callGraph": [
+      {
+        "file": "passphrases.py",
+        "functionName": "generate_passphrase",
+        "lines": [
+          {
+            "startLine": 105,
+            "endLine": 105
+          },
+          {
+            "startLine": 108,
+            "endLine": 108
+          }
+        ],
+        "replayTestFileNames": []
+      }
+    ],
+    "existingTestFile": "tests/conftest.py",
+    "replayTestFileNames": []
+  },
+  {
+    "functionName": "generate_passphrase",
+    "file": "passphrases.py",
+    "callGraph": [
+      {
+        "file": "passphrases.py",
+        "functionName": "generate_passphrase",
+        "lines": [
+          {
+            "startLine": 105,
+            "endLine": 105
+          },
+          {
+            "startLine": 108,
+            "endLine": 108
+          }
+        ],
+        "replayTestFileNames": []
+      }
+    ],
+    "existingTestFile": "tests/test_encryption.py",
+    "replayTestFileNames": []
+  },
+  {
+    "functionName": "generate_passphrase",
+    "file": "passphrases.py",
+    "callGraph": [
+      {
+        "file": "passphrases.py",
+        "functionName": "generate_passphrase",
+        "lines": [
+          {
+            "startLine": 105,
+            "endLine": 105
+          },
+          {
+            "startLine": 108,
+            "endLine": 108
+          }
+        ],
+        "replayTestFileNames": []
+      }
+    ],
+    "existingTestFile": "tests/test_journalist.py",
+    "replayTestFileNames": []
+  },
+  {
+    "functionName": "generate_passphrase",
+    "file": "passphrases.py",
+    "callGraph": [
+      {
+        "file": "passphrases.py",
+        "functionName": "generate_passphrase",
+        "lines": [
+          {
+            "startLine": 105,
+            "endLine": 105
+          },
+          {
+            "startLine": 108,
+            "endLine": 108
+          }
+        ],
+        "replayTestFileNames": []
+      }
+    ],
+    "existingTestFile": "tests/test_manage.py",
+    "replayTestFileNames": []
+  },
+  {
+    "functionName": "generate_passphrase",
+    "file": "passphrases.py",
+    "callGraph": [
+      {
+        "file": "passphrases.py",
+        "functionName": "generate_passphrase",
+        "lines": [
+          {
+            "startLine": 105,
+            "endLine": 105
+          },
+          {
+            "startLine": 108,
+            "endLine": 108
+          }
+        ],
+        "replayTestFileNames": []
+      }
+    ],
+    "existingTestFile": "tests/test_passphrases.py",
+    "replayTestFileNames": []
+  },
+  {
+    "functionName": "generate_passphrase",
+    "file": "passphrases.py",
+    "callGraph": [
+      {
+        "file": "passphrases.py",
+        "functionName": "generate_passphrase",
+        "lines": [
+          {
+            "startLine": 105,
+            "endLine": 105
+          },
+          {
+            "startLine": 108,
+            "endLine": 108
+          }
+        ],
+        "replayTestFileNames": []
+      }
+    ],
+    "existingTestFile": "tests/test_remove_pending_sources.py",
+    "replayTestFileNames": []
+  },
+  {
+    "functionName": "generate_passphrase",
+    "file": "passphrases.py",
+    "callGraph": [
+      {
+        "file": "passphrases.py",
+        "functionName": "generate_passphrase",
+        "lines": [
+          {
+            "startLine": 105,
+            "endLine": 105
+          },
+          {
+            "startLine": 108,
+            "endLine": 108
+          }
+        ],
+        "replayTestFileNames": []
+      }
+    ],
+    "existingTestFile": "tests/test_session_manager.py",
+    "replayTestFileNames": []
+  },
+  {
+    "functionName": "generate_passphrase",
+    "file": "passphrases.py",
+    "callGraph": [
+      {
+        "file": "passphrases.py",
+        "functionName": "generate_passphrase",
+        "lines": [
+          {
+            "startLine": 105,
+            "endLine": 105
+          },
+          {
+            "startLine": 108,
+            "endLine": 108
+          }
+        ],
+        "replayTestFileNames": []
+      }
+    ],
+    "existingTestFile": "tests/test_source.py",
+    "replayTestFileNames": []
+  },
+  {
+    "functionName": "generate_passphrase",
+    "file": "passphrases.py",
+    "callGraph": [
+      {
+        "file": "passphrases.py",
+        "functionName": "generate_passphrase",
+        "lines": [
+          {
+            "startLine": 105,
+            "endLine": 105
+          },
+          {
+            "startLine": 108,
+            "endLine": 108
+          }
+        ],
+        "replayTestFileNames": []
+      }
+    ],
+    "existingTestFile": "tests/test_source_user.py",
+    "replayTestFileNames": []
+  },
+  {
+    "functionName": "generate_passphrase",
+    "file": "passphrases.py",
+    "callGraph": [
+      {
+        "file": "passphrases.py",
+        "functionName": "generate_passphrase",
+        "lines": [
+          {
+            "startLine": 105,
+            "endLine": 105
+          },
+          {
+            "startLine": 108,
+            "endLine": 108
+          }
+        ],
+        "replayTestFileNames": []
+      }
+    ],
+    "existingTestFile": "tests/test_store.py",
+    "replayTestFileNames": []
+  },
+  {
+    "functionName": "status",
+    "replayTestFileNames": [],
+    "file": "pretty_bad_protocol/_logger.py",
+    "callGraph": [
+      {
+        "file": "pretty_bad_protocol/_logger.py",
+        "functionName": "status",
+        "lines": [
+          {
+            "startLine": 32,
+            "endLine": 32
+          }
+        ],
+        "replayTestFileNames": []
+      }
+    ]
+  },
+  {
+    "functionName": "default_preference_list",
+    "replayTestFileNames": [],
+    "file": "pretty_bad_protocol/_meta.py",
+    "callGraph": [
+      {
+        "file": "pretty_bad_protocol/_meta.py",
+        "functionName": "default_preference_list",
+        "lines": [
+          {
+            "startLine": 331,
+            "endLine": 333
+          }
+        ],
+        "replayTestFileNames": []
+      }
+    ]
+  },
+  {
+    "functionName": "default_preference_list",
+    "replayTestFileNames": [],
+    "file": "pretty_bad_protocol/_meta.py",
+    "callGraph": [
+      {
+        "file": "pretty_bad_protocol/_meta.py",
+        "functionName": "default_preference_list",
+        "lines": [
+          {
+            "startLine": 346,
+            "endLine": 346
+          }
+        ],
+        "replayTestFileNames": []
+      }
+    ]
+  },
+  {
+    "functionName": "keyserver",
+    "replayTestFileNames": [],
+    "file": "pretty_bad_protocol/_meta.py",
+    "callGraph": [
+      {
+        "file": "pretty_bad_protocol/_meta.py",
+        "functionName": "keyserver",
+        "lines": [
+          {
+            "startLine": 366,
+            "endLine": 366
+          }
+        ],
+        "replayTestFileNames": []
+      }
+    ]
+  },
+  {
+    "functionName": "keyserver",
+    "replayTestFileNames": [],
+    "file": "pretty_bad_protocol/_meta.py",
+    "callGraph": [
+      {
+        "file": "pretty_bad_protocol/_meta.py",
+        "functionName": "keyserver",
+        "lines": [
+          {
+            "startLine": 371,
+            "endLine": 371
+          }
+        ],
+        "replayTestFileNames": []
+      }
+    ]
+  },
+  {
+    "functionName": "nodata",
+    "replayTestFileNames": [],
+    "file": "pretty_bad_protocol/_parsers.py",
+    "callGraph": [
+      {
+        "file": "pretty_bad_protocol/_parsers.py",
+        "functionName": "nodata",
+        "lines": [
+          {
+            "startLine": 848,
+            "endLine": 848
+          },
+          {
+            "startLine": 854,
+            "endLine": 856
+          }
+        ],
+        "replayTestFileNames": []
+      }
+    ]
+  },
+  {
+    "functionName": "progress",
+    "replayTestFileNames": [],
+    "file": "pretty_bad_protocol/_parsers.py",
+    "callGraph": [
+      {
+        "file": "pretty_bad_protocol/_parsers.py",
+        "functionName": "progress",
+        "lines": [
+          {
+            "startLine": 861,
+            "endLine": 861
+          },
+          {
+            "startLine": 871,
+            "endLine": 873
+          }
+        ],
+        "replayTestFileNames": []
+      }
+    ]
+  },
+  {
+    "functionName": "gpg_interactive_input",
+    "replayTestFileNames": [],
+    "file": "pretty_bad_protocol/_parsers.py",
+    "callGraph": [
+      {
+        "file": "pretty_bad_protocol/_parsers.py",
+        "functionName": "gpg_interactive_input",
+        "lines": [
+          {
+            "startLine": 907,
+            "endLine": 907
+          },
+          {
+            "startLine": 909,
+            "endLine": 912
+          }
+        ],
+        "replayTestFileNames": []
+      }
+    ]
+  },
+  {
+    "functionName": "key",
+    "replayTestFileNames": [],
+    "file": "pretty_bad_protocol/_parsers.py",
+    "callGraph": [
+      {
+        "file": "pretty_bad_protocol/_parsers.py",
+        "functionName": "key",
+        "lines": [
+          {
+            "startLine": 1206,
+            "endLine": 1211
+          }
+        ],
+        "replayTestFileNames": []
+      }
+    ]
+  },
+  {
+    "functionName": "sig",
+    "replayTestFileNames": [],
+    "file": "pretty_bad_protocol/_parsers.py",
+    "callGraph": [
+      {
+        "file": "pretty_bad_protocol/_parsers.py",
+        "functionName": "sig",
+        "lines": [
+          {
+            "startLine": 1233,
+            "endLine": 1233
+          },
+          {
+            "startLine": 1238,
+            "endLine": 1244
+          }
+        ],
+        "replayTestFileNames": []
+      }
+    ]
+  },
+  {
+    "functionName": "rev",
+    "replayTestFileNames": [],
+    "file": "pretty_bad_protocol/_parsers.py",
+    "callGraph": [
+      {
+        "file": "pretty_bad_protocol/_parsers.py",
+        "functionName": "rev",
+        "lines": [
+          {
+            "startLine": 1251,
+            "endLine": 1251
+          }
+        ],
+        "replayTestFileNames": []
+      }
+    ]
+  },
+  {
+    "functionName": "summary",
+    "replayTestFileNames": [],
+    "file": "pretty_bad_protocol/_parsers.py",
+    "callGraph": [
+      {
+        "file": "pretty_bad_protocol/_parsers.py",
+        "functionName": "summary",
+        "lines": [
+          {
+            "startLine": 1380,
+            "endLine": 1384
+          }
+        ],
+        "replayTestFileNames": []
+      }
+    ]
+  },
+  {
+    "functionName": "summary",
+    "replayTestFileNames": [],
+    "file": "pretty_bad_protocol/_parsers.py",
+    "callGraph": [
+      {
+        "file": "pretty_bad_protocol/_parsers.py",
+        "functionName": "summary",
+        "lines": [
+          {
+            "startLine": 1445,
+            "endLine": 1445
+          }
+        ],
+        "replayTestFileNames": []
+      }
+    ]
+  },
+  {
+    "functionName": "export_ownertrust",
+    "replayTestFileNames": [],
+    "file": "pretty_bad_protocol/_trust.py",
+    "callGraph": [
+      {
+        "file": "pretty_bad_protocol/_trust.py",
+        "functionName": "export_ownertrust",
+        "lines": [
+          {
+            "startLine": 54,
+            "endLine": 55
+          },
+          {
+            "startLine": 57,
+            "endLine": 60
+          },
+          {
+            "startLine": 62,
+            "endLine": 65
+          }
+        ],
+        "replayTestFileNames": []
+      }
+    ]
+  },
+  {
+    "functionName": "import_ownertrust",
+    "replayTestFileNames": [],
+    "file": "pretty_bad_protocol/_trust.py",
+    "callGraph": [
+      {
+        "file": "pretty_bad_protocol/_trust.py",
+        "functionName": "import_ownertrust",
+        "lines": [
+          {
+            "startLine": 75,
+            "endLine": 76
+          },
+          {
+            "startLine": 78,
+            "endLine": 78
+          },
+          {
+            "startLine": 80,
+            "endLine": 83
+          },
+          {
+            "startLine": 85,
+            "endLine": 86
+          }
+        ],
+        "replayTestFileNames": []
+      }
+    ]
+  },
+  {
+    "functionName": "create_uid_email",
+    "replayTestFileNames": [],
+    "file": "pretty_bad_protocol/_util.py",
+    "callGraph": [
+      {
+        "file": "pretty_bad_protocol/_util.py",
+        "functionName": "create_uid_email",
+        "lines": [
+          {
+            "startLine": 184,
+            "endLine": 184
+          },
+          {
+            "startLine": 186,
+            "endLine": 189
+          },
+          {
+            "startLine": 191,
+            "endLine": 192
+          },
+          {
+            "startLine": 194,
+            "endLine": 194
+          },
+          {
+            "startLine": 198,
+            "endLine": 198
+          },
+          {
+            "startLine": 200,
+            "endLine": 200
+          }
+        ],
+        "replayTestFileNames": []
+      }
+    ]
+  },
+  {
+    "functionName": "sign",
+    "replayTestFileNames": [],
+    "file": "pretty_bad_protocol/gnupg.py",
+    "callGraph": [
+      {
+        "file": "pretty_bad_protocol/gnupg.py",
+        "functionName": "sign",
+        "lines": [
+          {
+            "startLine": 227,
+            "endLine": 228
+          },
+          {
+            "startLine": 230,
+            "endLine": 230
+          },
+          {
+            "startLine": 232,
+            "endLine": 237
+          },
+          {
+            "startLine": 239,
+            "endLine": 241
+          }
+        ],
+        "replayTestFileNames": []
+      }
+    ]
+  },
+  {
+    "functionName": "verify",
+    "replayTestFileNames": [],
+    "file": "pretty_bad_protocol/gnupg.py",
+    "callGraph": [
+      {
+        "file": "pretty_bad_protocol/gnupg.py",
+        "functionName": "verify",
+        "lines": [
+          {
+            "startLine": 258,
+            "endLine": 261
+          }
+        ],
+        "replayTestFileNames": []
+      }
+    ]
+  },
+  {
+    "functionName": "verify_file",
+    "replayTestFileNames": [],
+    "file": "pretty_bad_protocol/gnupg.py",
+    "callGraph": [
+      {
+        "file": "pretty_bad_protocol/gnupg.py",
+        "functionName": "verify_file",
+        "lines": [
+          {
+            "startLine": 276,
+            "endLine": 276
+          },
+          {
+            "startLine": 278,
+            "endLine": 283
+          },
+          {
+            "startLine": 285,
+            "endLine": 295
+          },
+          {
+            "startLine": 297,
+            "endLine": 299
+          }
+        ],
+        "replayTestFileNames": []
+      }
+    ]
+  },
+  {
+    "functionName": "recv_keys",
+    "replayTestFileNames": [],
+    "file": "pretty_bad_protocol/gnupg.py",
+    "callGraph": [
+      {
+        "file": "pretty_bad_protocol/gnupg.py",
+        "functionName": "recv_keys",
+        "lines": [
+          {
+            "startLine": 359,
+            "endLine": 361
+          },
+          {
+            "startLine": 363,
+            "endLine": 363
+          }
+        ],
+        "replayTestFileNames": []
+      }
+    ]
+  },
+  {
+    "functionName": "delete_keys",
+    "replayTestFileNames": [],
+    "file": "pretty_bad_protocol/gnupg.py",
+    "callGraph": [
+      {
+        "file": "pretty_bad_protocol/gnupg.py",
+        "functionName": "delete_keys",
+        "lines": [
+          {
+            "startLine": 391,
+            "endLine": 391
+          }
+        ],
+        "replayTestFileNames": []
+      }
+    ]
+  },
+  {
+    "functionName": "export_keys",
+    "file": "pretty_bad_protocol/gnupg.py",
+    "callGraph": [
+      {
+        "file": "pretty_bad_protocol/gnupg.py",
+        "functionName": "export_keys",
+        "lines": [
+          {
+            "startLine": 413,
+            "endLine": 413
+          },
+          {
+            "startLine": 421,
+            "endLine": 421
+          }
+        ],
+        "replayTestFileNames": []
+      }
+    ],
+    "existingTestFile": "tests/test_pretty_bad_protocol.py",
+    "replayTestFileNames": []
+  },
+  {
+    "functionName": "list_keys",
+    "replayTestFileNames": [],
+    "file": "pretty_bad_protocol/gnupg.py",
+    "callGraph": [
+      {
+        "file": "pretty_bad_protocol/gnupg.py",
+        "functionName": "list_keys",
+        "lines": [
+          {
+            "startLine": 456,
+            "endLine": 456
+          }
+        ],
+        "replayTestFileNames": []
+      }
+    ]
+  },
+  {
+    "functionName": "list_packets",
+    "replayTestFileNames": [],
+    "file": "pretty_bad_protocol/gnupg.py",
+    "callGraph": [
+      {
+        "file": "pretty_bad_protocol/gnupg.py",
+        "functionName": "list_packets",
+        "lines": [
+          {
+            "startLine": 478,
+            "endLine": 481
+          }
+        ],
+        "replayTestFileNames": []
+      }
+    ]
+  },
+  {
+    "functionName": "sign_key",
+    "replayTestFileNames": [],
+    "file": "pretty_bad_protocol/gnupg.py",
+    "callGraph": [
+      {
+        "file": "pretty_bad_protocol/gnupg.py",
+        "functionName": "sign_key",
+        "lines": [
+          {
+            "startLine": 500,
+            "endLine": 505
+          },
+          {
+            "startLine": 507,
+            "endLine": 508
+          },
+          {
+            "startLine": 510,
+            "endLine": 510
+          },
+          {
+            "startLine": 512,
+            "endLine": 517
+          }
+        ],
+        "replayTestFileNames": []
+      }
+    ]
+  },
+  {
+    "functionName": "list_sigs",
+    "replayTestFileNames": [],
+    "file": "pretty_bad_protocol/gnupg.py",
+    "callGraph": [
+      {
+        "file": "pretty_bad_protocol/gnupg.py",
+        "functionName": "list_sigs",
+        "lines": [
+          {
+            "startLine": 532,
+            "endLine": 532
+          }
+        ],
+        "replayTestFileNames": []
+      }
+    ]
+  },
+  {
+    "functionName": "check_sigs",
+    "replayTestFileNames": [],
+    "file": "pretty_bad_protocol/gnupg.py",
+    "callGraph": [
+      {
+        "file": "pretty_bad_protocol/gnupg.py",
+        "functionName": "check_sigs",
+        "lines": [
+          {
+            "startLine": 541,
+            "endLine": 541
+          }
+        ],
+        "replayTestFileNames": []
+      }
+    ]
+  },
+  {
+    "functionName": "expire",
+    "replayTestFileNames": [],
+    "file": "pretty_bad_protocol/gnupg.py",
+    "callGraph": [
+      {
+        "file": "pretty_bad_protocol/gnupg.py",
+        "functionName": "expire",
+        "lines": [
+          {
+            "startLine": 600,
+            "endLine": 600
+          },
+          {
+            "startLine": 602,
+            "endLine": 605
+          },
+          {
+            "startLine": 607,
+            "endLine": 607
+          },
+          {
+            "startLine": 611,
+            "endLine": 613
+          },
+          {
+            "startLine": 615,
+            "endLine": 616
+          },
+          {
+            "startLine": 618,
+            "endLine": 619
+          }
+        ],
+        "replayTestFileNames": []
+      }
+    ]
+  },
+  {
+    "functionName": "gen_key",
+    "file": "pretty_bad_protocol/gnupg.py",
+    "callGraph": [
+      {
+        "file": "pretty_bad_protocol/gnupg.py",
+        "functionName": "gen_key",
+        "lines": [
+          {
+            "startLine": 644,
+            "endLine": 646
+          },
+          {
+            "startLine": 648,
+            "endLine": 653
+          },
+          {
+            "startLine": 655,
+            "endLine": 660
+          }
+        ],
+        "replayTestFileNames": []
+      }
+    ],
+    "existingTestFile": "tests/test_pretty_bad_protocol.py",
+    "replayTestFileNames": []
+  },
+  {
+    "functionName": "gen_key_input",
+    "file": "pretty_bad_protocol/gnupg.py",
+    "callGraph": [
+      {
+        "file": "pretty_bad_protocol/gnupg.py",
+        "functionName": "gen_key_input",
+        "lines": [
+          {
+            "startLine": 873,
+            "endLine": 873
+          },
+          {
+            "startLine": 883,
+            "endLine": 884
+          },
+          {
+            "startLine": 888,
+            "endLine": 891
+          },
+          {
+            "startLine": 897,
+            "endLine": 897
+          },
+          {
+            "startLine": 899,
+            "endLine": 899
+          },
+          {
+            "startLine": 901,
+            "endLine": 901
+          },
+          {
+            "startLine": 915,
+            "endLine": 919
+          },
+          {
+            "startLine": 925,
+            "endLine": 926
+          },
+          {
+            "startLine": 932,
+            "endLine": 935
+          },
+          {
+            "startLine": 937,
+            "endLine": 938
+          },
+          {
+            "startLine": 944,
+            "endLine": 945
+          },
+          {
+            "startLine": 947,
+            "endLine": 949
+          },
+          {
+            "startLine": 955,
+            "endLine": 956
+          },
+          {
+            "startLine": 958,
+            "endLine": 959
+          }
+        ],
+        "replayTestFileNames": []
+      }
+    ],
+    "existingTestFile": "tests/test_pretty_bad_protocol.py",
+    "replayTestFileNames": []
+  },
+  {
+    "functionName": "encrypt",
+    "replayTestFileNames": [],
+    "file": "pretty_bad_protocol/gnupg.py",
+    "callGraph": [
+      {
+        "file": "pretty_bad_protocol/gnupg.py",
+        "functionName": "encrypt",
+        "lines": [
+          {
+            "startLine": 1048,
+            "endLine": 1049
+          },
+          {
+            "startLine": 1051,
+            "endLine": 1054
+          }
+        ],
+        "replayTestFileNames": []
+      }
+    ]
+  },
+  {
+    "functionName": "decrypt",
+    "file": "pretty_bad_protocol/gnupg.py",
+    "callGraph": [
+      {
+        "file": "pretty_bad_protocol/gnupg.py",
+        "functionName": "decrypt",
+        "lines": [
+          {
+            "startLine": 1065,
+            "endLine": 1068
+          }
+        ],
+        "replayTestFileNames": []
+      }
+    ],
+    "existingTestFile": "tests/test_encryption.py",
+    "replayTestFileNames": []
+  },
+  {
+    "functionName": "decrypt_file",
+    "replayTestFileNames": [],
+    "file": "pretty_bad_protocol/gnupg.py",
+    "callGraph": [
+      {
+        "file": "pretty_bad_protocol/gnupg.py",
+        "functionName": "decrypt_file",
+        "lines": [
+          {
+            "startLine": 1078,
+            "endLine": 1088
+          }
+        ],
+        "replayTestFileNames": []
+      }
+    ]
+  },
+  {
+    "functionName": "find_key_by_email",
+    "replayTestFileNames": [],
+    "file": "pretty_bad_protocol/gnupg.py",
+    "callGraph": [
+      {
+        "file": "pretty_bad_protocol/gnupg.py",
+        "functionName": "find_key_by_email",
+        "lines": [
+          {
+            "startLine": 1104,
+            "endLine": 1108
+          }
+        ],
+        "replayTestFileNames": []
+      }
+    ]
+  },
+  {
+    "functionName": "find_key_by_subkey",
+    "replayTestFileNames": [],
+    "file": "pretty_bad_protocol/gnupg.py",
+    "callGraph": [
+      {
+        "file": "pretty_bad_protocol/gnupg.py",
+        "functionName": "find_key_by_subkey",
+        "lines": [
+          {
+            "startLine": 1115,
+            "endLine": 1119
+          }
+        ],
+        "replayTestFileNames": []
+      }
+    ]
+  },
+  {
+    "functionName": "send_keys",
+    "replayTestFileNames": [],
+    "file": "pretty_bad_protocol/gnupg.py",
+    "callGraph": [
+      {
+        "file": "pretty_bad_protocol/gnupg.py",
+        "functionName": "send_keys",
+        "lines": [
+          {
+            "startLine": 1123,
+            "endLine": 1131
+          }
+        ],
+        "replayTestFileNames": []
+      }
+    ]
+  },
+  {
+    "functionName": "encrypted_to",
+    "replayTestFileNames": [],
+    "file": "pretty_bad_protocol/gnupg.py",
+    "callGraph": [
+      {
+        "file": "pretty_bad_protocol/gnupg.py",
+        "functionName": "encrypted_to",
+        "lines": [
+          {
+            "startLine": 1136,
+            "endLine": 1142
+          }
+        ],
+        "replayTestFileNames": []
+      }
+    ]
+  },
+  {
+    "functionName": "is_encrypted_sym",
+    "replayTestFileNames": [],
+    "file": "pretty_bad_protocol/gnupg.py",
+    "callGraph": [
+      {
+        "file": "pretty_bad_protocol/gnupg.py",
+        "functionName": "is_encrypted_sym",
+        "lines": [
+          {
+            "startLine": 1145,
+            "endLine": 1146
+          }
+        ],
+        "replayTestFileNames": []
+      }
+    ]
+  },
+  {
+    "functionName": "is_encrypted_asym",
+    "replayTestFileNames": [],
+    "file": "pretty_bad_protocol/gnupg.py",
+    "callGraph": [
+      {
+        "file": "pretty_bad_protocol/gnupg.py",
+        "functionName": "is_encrypted_asym",
+        "lines": [
+          {
+            "startLine": 1149,
+            "endLine": 1150
+          }
+        ],
+        "replayTestFileNames": []
+      }
+    ]
+  },
+  {
+    "functionName": "is_encrypted",
+    "replayTestFileNames": [],
+    "file": "pretty_bad_protocol/gnupg.py",
+    "callGraph": [
+      {
+        "file": "pretty_bad_protocol/gnupg.py",
+        "functionName": "is_encrypted",
+        "lines": [
+          {
+            "startLine": 1153,
+            "endLine": 1153
+          }
+        ],
+        "replayTestFileNames": []
+      }
+    ]
+  },
+  {
+    "functionName": "shred",
+    "file": "rm.py",
+    "callGraph": [
+      {
+        "file": "rm.py",
+        "functionName": "shred",
+        "lines": [
+          {
+            "startLine": 40,
+            "endLine": 41
+          },
+          {
+            "startLine": 43,
+            "endLine": 49
+          }
+        ],
+        "replayTestFileNames": []
+      }
+    ],
+    "existingTestFile": "tests/test_rm.py",
+    "replayTestFileNames": []
+  },
+  {
+    "functionName": "secure_delete",
+    "file": "rm.py",
+    "callGraph": [
+      {
+        "file": "rm.py",
+        "functionName": "secure_delete",
+        "lines": [
+          {
+            "startLine": 66,
+            "endLine": 66
+          },
+          {
+            "startLine": 68,
+            "endLine": 71
+          },
+          {
+            "startLine": 73,
+            "endLine": 77
+          },
+          {
+            "startLine": 79,
+            "endLine": 80
+          },
+          {
+            "startLine": 82,
+            "endLine": 84
+          }
+        ],
+        "replayTestFileNames": []
+      }
+    ],
+    "existingTestFile": "tests/test_rm.py",
+    "replayTestFileNames": []
+  },
+  {
+    "functionName": "check_secure_delete_capability",
+    "file": "rm.py",
+    "callGraph": [
+      {
+        "file": "rm.py",
+        "functionName": "check_secure_delete_capability",
+        "lines": [
+          {
+            "startLine": 97,
+            "endLine": 103
+          }
+        ],
+        "replayTestFileNames": []
+      }
+    ],
+    "existingTestFile": "tests/test_rm.py",
+    "replayTestFileNames": []
+  },
+  {
+    "functionName": "get_current",
+    "replayTestFileNames": [],
+    "file": "sdconfig.py",
+    "callGraph": [
+      {
+        "file": "sdconfig.py",
+        "functionName": "get_current",
+        "lines": [
+          {
+            "startLine": 101,
+            "endLine": 101
+          },
+          {
+            "startLine": 103,
+            "endLine": 104
+          }
+        ],
+        "replayTestFileNames": []
+      }
+    ]
+  },
+  {
+    "functionName": "_parse_config_from_file",
+    "file": "sdconfig.py",
+    "callGraph": [
+      {
+        "file": "sdconfig.py",
+        "functionName": "_parse_config_from_file",
+        "lines": [
+          {
+            "startLine": 112,
+            "endLine": 112
+          },
+          {
+            "startLine": 117,
+            "endLine": 119
+          },
+          {
+            "startLine": 121,
+            "endLine": 121
+          },
+          {
+            "startLine": 123,
+            "endLine": 126
+          },
+          {
+            "startLine": 128,
+            "endLine": 128
+          },
+          {
+            "startLine": 130,
+            "endLine": 133
+          },
+          {
+            "startLine": 135,
+            "endLine": 138
+          },
+          {
+            "startLine": 140,
+            "endLine": 143
+          },
+          {
+            "startLine": 145,
+            "endLine": 148
+          },
+          {
+            "startLine": 150,
+            "endLine": 153
+          },
+          {
+            "startLine": 155,
+            "endLine": 158
+          },
+          {
+            "startLine": 160,
+            "endLine": 163
+          },
+          {
+            "startLine": 165,
+            "endLine": 168
+          },
+          {
+            "startLine": 170,
+            "endLine": 173
+          },
+          {
+            "startLine": 175,
+            "endLine": 178
+          },
+          {
+            "startLine": 181,
+            "endLine": 182
+          },
+          {
+            "startLine": 191,
+            "endLine": 192
+          },
+          {
+            "startLine": 202,
+            "endLine": 202
+          }
+        ],
+        "replayTestFileNames": []
+      }
+    ],
+    "existingTestFile": "tests/test_config.py",
+    "replayTestFileNames": []
+  },
+  {
+    "functionName": "write",
+    "file": "secure_tempfile.py",
+    "callGraph": [
+      {
+        "file": "secure_tempfile.py",
+        "functionName": "write",
+        "lines": [
+          {
+            "startLine": 84,
+            "endLine": 84
+          },
+          {
+            "startLine": 88,
+            "endLine": 88
+          }
+        ],
+        "replayTestFileNames": []
+      }
+    ],
+    "existingTestFile": "tests/test_redwood.py",
+    "replayTestFileNames": []
+  },
+  {
+    "functionName": "write",
+    "file": "secure_tempfile.py",
+    "callGraph": [
+      {
+        "file": "secure_tempfile.py",
+        "functionName": "write",
+        "lines": [
+          {
+            "startLine": 84,
+            "endLine": 84
+          },
+          {
+            "startLine": 88,
+            "endLine": 88
+          }
+        ],
+        "replayTestFileNames": []
+      }
+    ],
+    "existingTestFile": "tests/test_secure_tempfile.py",
+    "replayTestFileNames": []
+  },
+  {
+    "functionName": "read",
+    "file": "secure_tempfile.py",
+    "callGraph": [
+      {
+        "file": "secure_tempfile.py",
+        "functionName": "read",
+        "lines": [
+          {
+            "startLine": 113,
+            "endLine": 113
+          },
+          {
+            "startLine": 121,
+            "endLine": 121
+          }
+        ],
+        "replayTestFileNames": []
+      }
+    ],
+    "existingTestFile": "tests/test_secure_tempfile.py",
+    "replayTestFileNames": []
+  },
+  {
+    "functionName": "close",
+    "file": "secure_tempfile.py",
+    "callGraph": [
+      {
+        "file": "secure_tempfile.py",
+        "functionName": "close",
+        "lines": [
+          {
+            "startLine": 130,
+            "endLine": 131
+          }
+        ],
+        "replayTestFileNames": []
+      }
+    ],
+    "existingTestFile": "tests/test_secure_tempfile.py",
+    "replayTestFileNames": []
+  },
+  {
+    "functionName": "get_logo_url",
+    "file": "source_app/__init__.py",
+    "callGraph": [
+      {
+        "file": "source_app/__init__.py",
+        "functionName": "get_logo_url",
+        "lines": [
+          {
+            "startLine": 25,
+            "endLine": 25
+          },
+          {
+            "startLine": 36,
+            "endLine": 36
+          }
+        ],
+        "replayTestFileNames": []
+      }
+    ],
+    "existingTestFile": "tests/test_journalist.py",
+    "replayTestFileNames": []
+  },
+  {
+    "functionName": "get_logo_url",
+    "file": "source_app/__init__.py",
+    "callGraph": [
+      {
+        "file": "source_app/__init__.py",
+        "functionName": "get_logo_url",
+        "lines": [
+          {
+            "startLine": 25,
+            "endLine": 25
+          },
+          {
+            "startLine": 36,
+            "endLine": 36
+          }
+        ],
+        "replayTestFileNames": []
+      }
+    ],
+    "existingTestFile": "tests/test_source.py",
+    "replayTestFileNames": []
+  },
+  {
+    "functionName": "create_app",
+    "file": "source_app/__init__.py",
+    "callGraph": [
+      {
+        "file": "source_app/__init__.py",
+        "functionName": "create_app",
+        "lines": [
+          {
+            "startLine": 101,
+            "endLine": 102
+          },
+          {
+            "startLine": 118,
+            "endLine": 120
+          },
+          {
+            "startLine": 129,
+            "endLine": 129
+          },
+          {
+            "startLine": 139,
+            "endLine": 141
+          },
+          {
+            "startLine": 143,
+            "endLine": 143
+          }
+        ],
+        "replayTestFileNames": []
+      }
+    ],
+    "existingTestFile": "tests/test_alembic.py",
+    "replayTestFileNames": []
+  },
+  {
+    "functionName": "create_app",
+    "file": "source_app/__init__.py",
+    "callGraph": [
+      {
+        "file": "source_app/__init__.py",
+        "functionName": "create_app",
+        "lines": [
+          {
+            "startLine": 101,
+            "endLine": 102
+          },
+          {
+            "startLine": 118,
+            "endLine": 120
+          },
+          {
+            "startLine": 129,
+            "endLine": 129
+          },
+          {
+            "startLine": 139,
+            "endLine": 141
+          },
+          {
+            "startLine": 143,
+            "endLine": 143
+          }
+        ],
+        "replayTestFileNames": []
+      }
+    ],
+    "existingTestFile": "tests/test_i18n.py",
+    "replayTestFileNames": []
+  },
+  {
+    "functionName": "create_app",
+    "file": "source_app/__init__.py",
+    "callGraph": [
+      {
+        "file": "source_app/__init__.py",
+        "functionName": "create_app",
+        "lines": [
+          {
+            "startLine": 101,
+            "endLine": 102
+          },
+          {
+            "startLine": 118,
+            "endLine": 120
+          },
+          {
+            "startLine": 129,
+            "endLine": 129
+          },
+          {
+            "startLine": 139,
+            "endLine": 141
+          },
+          {
+            "startLine": 143,
+            "endLine": 143
+          }
+        ],
+        "replayTestFileNames": []
+      }
+    ],
+    "existingTestFile": "tests/test_journalist.py",
+    "replayTestFileNames": []
+  },
+  {
+    "functionName": "create_app",
+    "file": "source_app/__init__.py",
+    "callGraph": [
+      {
+        "file": "source_app/__init__.py",
+        "functionName": "create_app",
+        "lines": [
+          {
+            "startLine": 101,
+            "endLine": 102
+          },
+          {
+            "startLine": 118,
+            "endLine": 120
+          },
+          {
+            "startLine": 129,
+            "endLine": 129
+          },
+          {
+            "startLine": 139,
+            "endLine": 141
+          },
+          {
+            "startLine": 143,
+            "endLine": 143
+          }
+        ],
+        "replayTestFileNames": []
+      }
+    ],
+    "existingTestFile": "tests/test_store.py",
+    "replayTestFileNames": []
+  },
+  {
+    "functionName": "create_app",
+    "file": "source_app/__init__.py",
+    "callGraph": [
+      {
+        "file": "source_app/__init__.py",
+        "functionName": "create_app",
+        "lines": [
+          {
+            "startLine": 101,
+            "endLine": 102
+          },
+          {
+            "startLine": 118,
+            "endLine": 120
+          },
+          {
+            "startLine": 129,
+            "endLine": 129
+          },
+          {
+            "startLine": 139,
+            "endLine": 141
+          },
+          {
+            "startLine": 143,
+            "endLine": 143
+          }
+        ],
+        "replayTestFileNames": []
+      }
+    ],
+    "existingTestFile": "tests/test_template_filters.py",
+    "replayTestFileNames": []
+  },
+  {
+    "functionName": "make_blueprint",
+    "replayTestFileNames": [],
+    "file": "source_app/main.py",
+    "callGraph": [
+      {
+        "file": "source_app/main.py",
+        "functionName": "make_blueprint",
+        "lines": [
+          {
+            "startLine": 64,
+            "endLine": 64
+          },
+          {
+            "startLine": 66,
+            "endLine": 66
+          },
+          {
+            "startLine": 172,
+            "endLine": 172
+          },
+          {
+            "startLine": 215,
+            "endLine": 215
+          },
+          {
+            "startLine": 255,
+            "endLine": 255
+          },
+          {
+            "startLine": 259,
+            "endLine": 259
+          },
+          {
+            "startLine": 388,
+            "endLine": 388
+          },
+          {
+            "startLine": 391,
+            "endLine": 391
+          },
+          {
+            "startLine": 403,
+            "endLine": 404
+          },
+          {
+            "startLine": 426,
+            "endLine": 426
+          }
+        ],
+        "replayTestFileNames": []
+      }
+    ]
+  },
+  {
+    "functionName": "check_url_file",
+    "file": "source_app/utils.py",
+    "callGraph": [
+      {
+        "file": "source_app/utils.py",
+        "functionName": "check_url_file",
+        "lines": [
+          {
+            "startLine": 98,
+            "endLine": 101
+          },
+          {
+            "startLine": 103,
+            "endLine": 103
+          }
+        ],
+        "replayTestFileNames": []
+      }
+    ],
+    "existingTestFile": "tests/test_source_utils.py",
+    "replayTestFileNames": []
+  },
+  {
+    "functionName": "fit_codenames_into_cookie",
+    "file": "source_app/utils.py",
+    "callGraph": [
+      {
+        "file": "source_app/utils.py",
+        "functionName": "fit_codenames_into_cookie",
+        "lines": [
+          {
+            "startLine": 121,
+            "endLine": 122
+          },
+          {
+            "startLine": 127,
+            "endLine": 127
+          },
+          {
+            "startLine": 129,
+            "endLine": 129
+          }
+        ],
+        "replayTestFileNames": []
+      }
+    ],
+    "existingTestFile": "tests/test_source_utils.py",
+    "replayTestFileNames": []
+  },
+  {
+    "functionName": "create_source_user",
+    "file": "source_user.py",
+    "callGraph": [
+      {
+        "file": "source_user.py",
+        "functionName": "create_source_user",
+        "lines": [
+          {
+            "startLine": 102,
+            "endLine": 102
+          }
+        ],
+        "replayTestFileNames": []
+      }
+    ],
+    "existingTestFile": "tests/conftest.py",
+    "replayTestFileNames": []
+  },
+  {
+    "functionName": "create_source_user",
+    "file": "source_user.py",
+    "callGraph": [
+      {
+        "file": "source_user.py",
+        "functionName": "create_source_user",
+        "lines": [
+          {
+            "startLine": 102,
+            "endLine": 102
+          }
+        ],
+        "replayTestFileNames": []
+      }
+    ],
+    "existingTestFile": "tests/test_encryption.py",
+    "replayTestFileNames": []
+  },
+  {
+    "functionName": "create_source_user",
+    "file": "source_user.py",
+    "callGraph": [
+      {
+        "file": "source_user.py",
+        "functionName": "create_source_user",
+        "lines": [
+          {
+            "startLine": 102,
+            "endLine": 102
+          }
+        ],
+        "replayTestFileNames": []
+      }
+    ],
+    "existingTestFile": "tests/test_journalist.py",
+    "replayTestFileNames": []
+  },
+  {
+    "functionName": "create_source_user",
+    "file": "source_user.py",
+    "callGraph": [
+      {
+        "file": "source_user.py",
+        "functionName": "create_source_user",
+        "lines": [
+          {
+            "startLine": 102,
+            "endLine": 102
+          }
+        ],
+        "replayTestFileNames": []
+      }
+    ],
+    "existingTestFile": "tests/test_manage.py",
+    "replayTestFileNames": []
+  },
+  {
+    "functionName": "create_source_user",
+    "file": "source_user.py",
+    "callGraph": [
+      {
+        "file": "source_user.py",
+        "functionName": "create_source_user",
+        "lines": [
+          {
+            "startLine": 102,
+            "endLine": 102
+          }
+        ],
+        "replayTestFileNames": []
+      }
+    ],
+    "existingTestFile": "tests/test_remove_pending_sources.py",
+    "replayTestFileNames": []
+  },
+  {
+    "functionName": "create_source_user",
+    "file": "source_user.py",
+    "callGraph": [
+      {
+        "file": "source_user.py",
+        "functionName": "create_source_user",
+        "lines": [
+          {
+            "startLine": 102,
+            "endLine": 102
+          }
+        ],
+        "replayTestFileNames": []
+      }
+    ],
+    "existingTestFile": "tests/test_session_manager.py",
+    "replayTestFileNames": []
+  },
+  {
+    "functionName": "create_source_user",
+    "file": "source_user.py",
+    "callGraph": [
+      {
+        "file": "source_user.py",
+        "functionName": "create_source_user",
+        "lines": [
+          {
+            "startLine": 102,
+            "endLine": 102
+          }
+        ],
+        "replayTestFileNames": []
+      }
+    ],
+    "existingTestFile": "tests/test_source.py",
+    "replayTestFileNames": []
+  },
+  {
+    "functionName": "create_source_user",
+    "file": "source_user.py",
+    "callGraph": [
+      {
+        "file": "source_user.py",
+        "functionName": "create_source_user",
+        "lines": [
+          {
+            "startLine": 102,
+            "endLine": 102
+          }
+        ],
+        "replayTestFileNames": []
+      }
+    ],
+    "existingTestFile": "tests/test_source_user.py",
+    "replayTestFileNames": []
+  },
+  {
+    "functionName": "create_source_user",
+    "file": "source_user.py",
+    "callGraph": [
+      {
+        "file": "source_user.py",
+        "functionName": "create_source_user",
+        "lines": [
+          {
+            "startLine": 102,
+            "endLine": 102
+          }
+        ],
+        "replayTestFileNames": []
+      }
+    ],
+    "existingTestFile": "tests/test_store.py",
+    "replayTestFileNames": []
+  },
+  {
+    "functionName": "validate_journalist_key",
+    "file": "startup.py",
+    "callGraph": [
+      {
+        "file": "startup.py",
+        "functionName": "validate_journalist_key",
+        "lines": [
+          {
+            "startLine": 16,
+            "endLine": 20
+          },
+          {
+            "startLine": 24,
+            "endLine": 28
+          }
+        ],
+        "replayTestFileNames": []
+      }
+    ],
+    "existingTestFile": "tests/test_startup.py",
+    "replayTestFileNames": []
+  },
+  {
+    "functionName": "safe_renames",
+    "replayTestFileNames": [],
+    "file": "store.py",
+    "callGraph": [
+      {
+        "file": "store.py",
+        "functionName": "safe_renames",
+        "lines": [
+          {
+            "startLine": 78,
+            "endLine": 78
+          }
+        ],
+        "replayTestFileNames": []
+      }
+    ]
+  },
+  {
+    "functionName": "get_default",
+    "file": "store.py",
+    "callGraph": [
+      {
+        "file": "store.py",
+        "functionName": "get_default",
+        "lines": [
+          {
+            "startLine": 103,
+            "endLine": 105
+          },
+          {
+            "startLine": 107,
+            "endLine": 107
+          }
+        ],
+        "replayTestFileNames": []
+      }
+    ],
+    "existingTestFile": "tests/test_integration.py",
+    "replayTestFileNames": []
+  },
+  {
+    "functionName": "shredder_path",
+    "replayTestFileNames": [],
+    "file": "store.py",
+    "callGraph": [
+      {
+        "file": "store.py",
+        "functionName": "shredder_path",
+        "lines": [
+          {
+            "startLine": 115,
+            "endLine": 115
+          }
+        ],
+        "replayTestFileNames": []
+      }
+    ]
+  },
+  {
+    "functionName": "shredder_contains",
+    "replayTestFileNames": [],
+    "file": "store.py",
+    "callGraph": [
+      {
+        "file": "store.py",
+        "functionName": "shredder_contains",
+        "lines": [
+          {
+            "startLine": 121,
+            "endLine": 122
+          }
+        ],
+        "replayTestFileNames": []
+      }
+    ]
+  },
+  {
+    "functionName": "verify",
+    "replayTestFileNames": [],
+    "file": "store.py",
+    "callGraph": [
+      {
+        "file": "store.py",
+        "functionName": "verify",
+        "lines": [
+          {
+            "startLine": 148,
+            "endLine": 148
+          }
+        ],
+        "replayTestFileNames": []
+      }
+    ]
+  },
+  {
+    "functionName": "path",
+    "file": "store.py",
+    "callGraph": [
+      {
+        "file": "store.py",
+        "functionName": "path",
+        "lines": [
+          {
+            "startLine": 159,
+            "endLine": 159
+          }
+        ],
+        "replayTestFileNames": []
+      }
+    ],
+    "existingTestFile": "tests/test_integration.py",
+    "replayTestFileNames": []
+  },
+  {
+    "functionName": "path_without_filesystem_id",
+    "replayTestFileNames": [],
+    "file": "store.py",
+    "callGraph": [
+      {
+        "file": "store.py",
+        "functionName": "path_without_filesystem_id",
+        "lines": [
+          {
+            "startLine": 171,
+            "endLine": 175
+          },
+          {
+            "startLine": 177,
+            "endLine": 180
+          },
+          {
+            "startLine": 182,
+            "endLine": 182
+          },
+          {
+            "startLine": 184,
+            "endLine": 186
+          }
+        ],
+        "replayTestFileNames": []
+      }
+    ]
+  },
+  {
+    "functionName": "get_bulk_archive",
+    "replayTestFileNames": [],
+    "file": "store.py",
+    "callGraph": [
+      {
+        "file": "store.py",
+        "functionName": "get_bulk_archive",
+        "lines": [
+          {
+            "startLine": 192,
+            "endLine": 192
+          },
+          {
+            "startLine": 195,
+            "endLine": 195
+          },
+          {
+            "startLine": 198,
+            "endLine": 198
+          },
+          {
+            "startLine": 200,
+            "endLine": 203
+          },
+          {
+            "startLine": 206,
+            "endLine": 207
+          },
+          {
+            "startLine": 209,
+            "endLine": 212
+          },
+          {
+            "startLine": 214,
+            "endLine": 215
+          },
+          {
+            "startLine": 224,
+            "endLine": 225
+          },
+          {
+            "startLine": 227,
+            "endLine": 228
+          },
+          {
+            "startLine": 230,
+            "endLine": 230
+          }
+        ],
+        "replayTestFileNames": []
+      }
+    ]
+  },
+  {
+    "functionName": "move_to_shredder",
+    "replayTestFileNames": [],
+    "file": "store.py",
+    "callGraph": [
+      {
+        "file": "store.py",
+        "functionName": "move_to_shredder",
+        "lines": [
+          {
+            "startLine": 247,
+            "endLine": 247
+          },
+          {
+            "startLine": 250,
+            "endLine": 250
+          }
+        ],
+        "replayTestFileNames": []
+      }
+    ]
+  },
+  {
+    "functionName": "clear_shredder",
+    "replayTestFileNames": [],
+    "file": "store.py",
+    "callGraph": [
+      {
+        "file": "store.py",
+        "functionName": "clear_shredder",
+        "lines": [
+          {
+            "startLine": 258,
+            "endLine": 268
+          },
+          {
+            "startLine": 277,
+            "endLine": 281
+          },
+          {
+            "startLine": 283,
+            "endLine": 288
+          },
+          {
+            "startLine": 290,
+            "endLine": 295
+          }
+        ],
+        "replayTestFileNames": []
+      }
+    ]
+  },
+  {
+    "functionName": "save_file_submission",
+    "replayTestFileNames": [],
+    "file": "store.py",
+    "callGraph": [
+      {
+        "file": "store.py",
+        "functionName": "save_file_submission",
+        "lines": [
+          {
+            "startLine": 308,
+            "endLine": 308
+          }
+        ],
+        "replayTestFileNames": []
+      }
+    ]
+  },
+  {
+    "functionName": "save_pre_encrypted_reply",
+    "replayTestFileNames": [],
+    "file": "store.py",
+    "callGraph": [
+      {
+        "file": "store.py",
+        "functionName": "save_pre_encrypted_reply",
+        "lines": [
+          {
+            "startLine": 345,
+            "endLine": 346
+          },
+          {
+            "startLine": 348,
+            "endLine": 349
+          },
+          {
+            "startLine": 351,
+            "endLine": 352
+          },
+          {
+            "startLine": 354,
+            "endLine": 354
+          }
+        ],
+        "replayTestFileNames": []
+      }
+    ]
+  },
+  {
+    "functionName": "queued_add_checksum_for_file",
+    "file": "store.py",
+    "callGraph": [
+      {
+        "file": "store.py",
+        "functionName": "queued_add_checksum_for_file",
+        "lines": [
+          {
+            "startLine": 383,
+            "endLine": 385
+          },
+          {
+            "startLine": 387,
+            "endLine": 387
+          }
+        ],
+        "replayTestFileNames": []
+      }
+    ],
+    "existingTestFile": "tests/test_store.py",
+    "replayTestFileNames": []
+  },
+  {
+    "functionName": "add_checksum_for_file",
+    "replayTestFileNames": [],
+    "file": "store.py",
+    "callGraph": [
+      {
+        "file": "store.py",
+        "functionName": "add_checksum_for_file",
+        "lines": [
+          {
+            "startLine": 393,
+            "endLine": 394
+          },
+          {
+            "startLine": 396,
+            "endLine": 399
+          },
+          {
+            "startLine": 401,
+            "endLine": 403
+          },
+          {
+            "startLine": 405,
+            "endLine": 406
+          }
+        ],
+        "replayTestFileNames": []
+      }
+    ]
+  },
+  {
+    "functionName": "filesizeformat",
+    "replayTestFileNames": [],
+    "file": "template_filters.py",
+    "callGraph": [
+      {
+        "file": "template_filters.py",
+        "functionName": "filesizeformat",
+        "lines": [
+          {
+            "startLine": 29,
+            "endLine": 29
+          },
+          {
+            "startLine": 35,
+            "endLine": 36
+          },
+          {
+            "startLine": 42,
+            "endLine": 43
+          },
+          {
+            "startLine": 45,
+            "endLine": 48
+          }
+        ],
+        "replayTestFileNames": []
+      }
+    ]
+  },
+  {
+    "functionName": "random_base32",
+    "replayTestFileNames": [],
+    "file": "two_factor.py",
+    "callGraph": [
+      {
+        "file": "two_factor.py",
+        "functionName": "random_base32",
+        "lines": [
+          {
+            "startLine": 18,
+            "endLine": 18
+          }
+        ],
+        "replayTestFileNames": []
+      }
+    ]
+  },
+  {
+    "functionName": "format_secret",
+    "replayTestFileNames": [],
+    "file": "two_factor.py",
+    "callGraph": [
+      {
+        "file": "two_factor.py",
+        "functionName": "format_secret",
+        "lines": [
+          {
+            "startLine": 28,
+            "endLine": 29
+          }
+        ],
+        "replayTestFileNames": []
+      }
+    ]
+  },
+  {
+    "functionName": "generate",
+    "file": "two_factor.py",
+    "callGraph": [
+      {
+        "file": "two_factor.py",
+        "functionName": "generate",
+        "lines": [
+          {
+            "startLine": 73,
+            "endLine": 73
+          }
+        ],
+        "replayTestFileNames": []
+      }
+    ],
+    "existingTestFile": "tests/test_two_factor.py",
+    "replayTestFileNames": []
+  },
+  {
+    "functionName": "generate",
+    "file": "two_factor.py",
+    "callGraph": [
+      {
+        "file": "two_factor.py",
+        "functionName": "generate",
+        "lines": [
+          {
+            "startLine": 73,
+            "endLine": 73
+          }
+        ],
+        "replayTestFileNames": []
+      }
+    ],
+    "existingTestFile": "tests/test_two_factor_in_apps.py",
+    "replayTestFileNames": []
+  },
+  {
+    "functionName": "verify",
+    "file": "two_factor.py",
+    "callGraph": [
+      {
+        "file": "two_factor.py",
+        "functionName": "verify",
+        "lines": [
+          {
+            "startLine": 77,
+            "endLine": 84
+          },
+          {
+            "startLine": 86,
+            "endLine": 87
+          },
+          {
+            "startLine": 89,
+            "endLine": 89
+          }
+        ],
+        "replayTestFileNames": []
+      }
+    ],
+    "existingTestFile": "tests/test_two_factor.py",
+    "replayTestFileNames": []
+  },
+  {
+    "functionName": "generate",
+    "file": "two_factor.py",
+    "callGraph": [
+      {
+        "file": "two_factor.py",
+        "functionName": "generate",
+        "lines": [
+          {
+            "startLine": 128,
+            "endLine": 128
+          }
+        ],
+        "replayTestFileNames": []
+      }
+    ],
+    "existingTestFile": "tests/test_two_factor.py",
+    "replayTestFileNames": []
+  },
+  {
+    "functionName": "generate",
+    "file": "two_factor.py",
+    "callGraph": [
+      {
+        "file": "two_factor.py",
+        "functionName": "generate",
+        "lines": [
+          {
+            "startLine": 128,
+            "endLine": 128
+          }
+        ],
+        "replayTestFileNames": []
+      }
+    ],
+    "existingTestFile": "tests/test_two_factor_in_apps.py",
+    "replayTestFileNames": []
+  },
+  {
+    "functionName": "now",
+    "file": "two_factor.py",
+    "callGraph": [
+      {
+        "file": "two_factor.py",
+        "functionName": "now",
+        "lines": [
+          {
+            "startLine": 131,
+            "endLine": 131
+          }
+        ],
+        "replayTestFileNames": []
+      }
+    ],
+    "existingTestFile": "tests/test_integration.py",
+    "replayTestFileNames": []
+  },
+  {
+    "functionName": "now",
+    "file": "two_factor.py",
+    "callGraph": [
+      {
+        "file": "two_factor.py",
+        "functionName": "now",
+        "lines": [
+          {
+            "startLine": 131,
+            "endLine": 131
+          }
+        ],
+        "replayTestFileNames": []
+      }
+    ],
+    "existingTestFile": "tests/test_journalist.py",
+    "replayTestFileNames": []
+  },
+  {
+    "functionName": "now",
+    "file": "two_factor.py",
+    "callGraph": [
+      {
+        "file": "two_factor.py",
+        "functionName": "now",
+        "lines": [
+          {
+            "startLine": 131,
+            "endLine": 131
+          }
+        ],
+        "replayTestFileNames": []
+      }
+    ],
+    "existingTestFile": "tests/test_journalist_api.py",
+    "replayTestFileNames": []
+  },
+  {
+    "functionName": "now",
+    "file": "two_factor.py",
+    "callGraph": [
+      {
+        "file": "two_factor.py",
+        "functionName": "now",
+        "lines": [
+          {
+            "startLine": 131,
+            "endLine": 131
+          }
+        ],
+        "replayTestFileNames": []
+      }
+    ],
+    "existingTestFile": "tests/test_journalist_session.py",
+    "replayTestFileNames": []
+  },
+  {
+    "functionName": "now",
+    "file": "two_factor.py",
+    "callGraph": [
+      {
+        "file": "two_factor.py",
+        "functionName": "now",
+        "lines": [
+          {
+            "startLine": 131,
+            "endLine": 131
+          }
+        ],
+        "replayTestFileNames": []
+      }
+    ],
+    "existingTestFile": "tests/test_two_factor_in_apps.py",
+    "replayTestFileNames": []
+  },
+  {
+    "functionName": "verify",
+    "file": "two_factor.py",
+    "callGraph": [
+      {
+        "file": "two_factor.py",
+        "functionName": "verify",
+        "lines": [
+          {
+            "startLine": 136,
+            "endLine": 144
+          },
+          {
+            "startLine": 146,
+            "endLine": 147
+          }
+        ],
+        "replayTestFileNames": []
+      }
+    ],
+    "existingTestFile": "tests/test_two_factor.py",
+    "replayTestFileNames": []
+  },
+  {
+    "functionName": "get_provisioning_uri",
+    "file": "two_factor.py",
+    "callGraph": [
+      {
+        "file": "two_factor.py",
+        "functionName": "get_provisioning_uri",
+        "lines": [
+          {
+            "startLine": 150,
+            "endLine": 150
+          }
+        ],
+        "replayTestFileNames": []
+      }
+    ],
+    "existingTestFile": "tests/test_two_factor.py",
+    "replayTestFileNames": []
+  },
+  {
+    "functionName": "qrcode_svg",
+    "replayTestFileNames": [],
+    "file": "two_factor.py",
+    "callGraph": [
+      {
+        "file": "two_factor.py",
+        "functionName": "qrcode_svg",
+        "lines": [
+          {
+            "startLine": 153,
+            "endLine": 153
+          },
+          {
+            "startLine": 155,
+            "endLine": 157
+          },
+          {
+            "startLine": 159,
+            "endLine": 161
+          }
+        ],
+        "replayTestFileNames": []
+      }
+    ]
+  },
+  {
+    "functionName": "get_existing_screenshots",
+    "replayTestFileNames": [],
+    "file": "upload-screenshots.py",
+    "callGraph": [
+      {
+        "file": "upload-screenshots.py",
+        "functionName": "get_existing_screenshots",
+        "lines": [
+          {
+            "startLine": 113,
+            "endLine": 113
+          },
+          {
+            "startLine": 118,
+            "endLine": 118
+          },
+          {
+            "startLine": 122,
+            "endLine": 134
+          }
+        ],
+        "replayTestFileNames": []
+      }
+    ]
+  },
+  {
+    "functionName": "upload",
+    "replayTestFileNames": [],
+    "file": "upload-screenshots.py",
+    "callGraph": [
+      {
+        "file": "upload-screenshots.py",
+        "functionName": "upload",
+        "lines": [
+          {
+            "startLine": 146,
+            "endLine": 146
+          },
+          {
+            "startLine": 152,
+            "endLine": 153
+          },
+          {
+            "startLine": 155,
+            "endLine": 155
+          },
+          {
+            "startLine": 157,
+            "endLine": 160
+          },
+          {
+            "startLine": 162,
+            "endLine": 165
+          },
+          {
+            "startLine": 167,
+            "endLine": 167
+          },
+          {
+            "startLine": 169,
+            "endLine": 172
+          },
+          {
+            "startLine": 174,
+            "endLine": 174
+          },
+          {
+            "startLine": 179,
+            "endLine": 181
+          },
+          {
+            "startLine": 183,
+            "endLine": 184
+          }
+        ],
+        "replayTestFileNames": []
+      }
+    ]
+  },
+  {
+    "functionName": "rq_workers",
+    "file": "worker.py",
+    "callGraph": [
+      {
+        "file": "worker.py",
+        "functionName": "rq_workers",
+        "lines": [
+          {
+            "startLine": 28,
+            "endLine": 29
+          }
+        ],
+        "replayTestFileNames": []
+      }
+    ],
+    "existingTestFile": "tests/test_worker.py",
+    "replayTestFileNames": []
+  },
+  {
+    "functionName": "worker_for_job",
+    "file": "worker.py",
+    "callGraph": [
+      {
+        "file": "worker.py",
+        "functionName": "worker_for_job",
+        "lines": [
+          {
+            "startLine": 36,
+            "endLine": 36
+          },
+          {
+            "startLine": 42,
+            "endLine": 45
+          },
+          {
+            "startLine": 48,
+            "endLine": 50
+          }
+        ],
+        "replayTestFileNames": []
+      }
+    ],
+    "existingTestFile": "tests/test_worker.py",
+    "replayTestFileNames": []
+  },
+  {
+    "functionName": "requeue_interrupted_jobs",
+    "file": "worker.py",
+    "callGraph": [
+      {
+        "file": "worker.py",
+        "functionName": "requeue_interrupted_jobs",
+        "lines": [
+          {
+            "startLine": 74,
+            "endLine": 75
+          },
+          {
+            "startLine": 77,
+            "endLine": 82
+          },
+          {
+            "startLine": 84,
+            "endLine": 85
+          },
+          {
+            "startLine": 87,
+            "endLine": 93
+          },
+          {
+            "startLine": 95,
+            "endLine": 95
+          },
+          {
+            "startLine": 99,
+            "endLine": 101
+          },
+          {
+            "startLine": 104,
+            "endLine": 104
+          },
+          {
+            "startLine": 106,
+            "endLine": 106
+          },
+          {
+            "startLine": 108,
+            "endLine": 112
+          },
+          {
+            "startLine": 114,
+            "endLine": 119
+          }
+        ],
+        "replayTestFileNames": []
+      }
+    ],
+    "existingTestFile": "tests/test_worker.py",
+    "replayTestFileNames": []
+  }
+]

@@ -13,7 +13,7 @@ cd "${REPOROOT}/securedrop"
 PYTHONPATH=".:${PYTHONPATH:-}"
 export PYTHONPATH
 
-TEST_RESULTS=../test-results
+TEST_RESULTS=test-results
 JUNIT_XML=${TEST_RESULTS}/junit.xml
 
 source "${BASH_SOURCE%/*}/dev-deps"
@@ -69,6 +69,7 @@ pytest \
     --cov-report term-missing \
     --cov-report "html:${TEST_RESULTS}/cov_html" \
     --cov-report "xml:${TEST_RESULTS}/cov.xml" \
+    --cov-report "lcov:${TEST_RESULTS}/lcov.info" \
     --cov-report "annotate:${TEST_RESULTS}/cov_annotate" \
     --cov=. \
     --strict-markers \

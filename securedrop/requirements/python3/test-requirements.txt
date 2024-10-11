@@ -29,7 +29,8 @@ charset-normalizer==2.0.3 \
     --hash=sha256:88fce3fa5b1a84fdcb3f603d889f723d1dd89b26059d0123ca435570e848d5e1 \
     --hash=sha256:c46c3ace2d744cfbdebceaa3c19ae691f53ae621b39fd7570f59d14fb7f2fd12
     # via requests
-coverage==5.3 \
+coverage==7.6.1 \
+    --hash=sha256:953510dfb7b12ab69d20135a0662397f077c59b1e6379a768e97c59d852ee51d \
     --hash=sha256:0203acd33d2298e19b57451ebb0bed0ab0c602e5cf5a818591b4918b1f97d516 \
     --hash=sha256:0f313707cdecd5cd3e217fc68c78a960b616604b559e9ea60cc16795c4304259 \
     --hash=sha256:1c6703094c81fa55b816f5ae542c6ffc625fec769f22b053adb42ad712d086c9 \
@@ -245,7 +246,8 @@ pytest==7.2.0 \
     #   pytest-cov
     #   pytest-mock
     #   pytest-xdist
-pytest-cov==2.5.1 \
+pytest-cov==5.0.0 \
+    --hash=sha256:5837b58e9f6ebd335b0f8060eecce69b662415b16dc503883a02f45dfeb14857 \
     --hash=sha256:03aa752cf11db41d281ea1d807d954c4eda35cfa1b21d6971966cc041bbf6e2d \
     --hash=sha256:890fe5565400902b0c78b5357004aab1c814115894f4f21370e2433256a3eeec
     # via -r requirements/python3/test-requirements.in
