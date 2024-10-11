@@ -1,7 +1,7 @@
 #!/bin/bash
 # shellcheck disable=SC1090
 
-set -euo pipefail
+set -euox pipefail
 
 export PATH="/opt/venvs/securedrop-app-code/bin:$PATH"
 
@@ -58,7 +58,9 @@ mkdir -p "$TEST_RESULTS"
 export TEST_LOCALES
 export TOR_FORCE_NET_CONFIG=0
 
-pytest \
+if [[ "$COVERAGE_ENABLED" == 'true' ]]; then
+
+  pytest \
     --force-flaky --max-runs=3 \
     -rx \
     --no-success-flaky-report \
@@ -74,3 +76,15 @@ pytest \
     --cov=. \
     --strict-markers \
     "$@"
+else
+    pytest \
+      --force-flaky --max-runs=3 \
+      -rx \
+      --no-success-flaky-report \
+      --page-layout \
+      --durations 10 \
+      --junitxml "$JUNIT_XML" \
+      --override-ini junit_family=xunit1 \
+      --strict-markers \
+      "$@"
+fi

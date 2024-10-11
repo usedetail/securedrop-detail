@@ -4,7 +4,7 @@
 # be evaluated into multiple strings, not a single argument.
 # we ignore SC1090 because "source" is validated independently
 
-set -eu
+set -eux
 
 export PATH="/opt/venvs/securedrop-app-code/bin:$PATH"
 
@@ -137,6 +137,7 @@ function docker_run() {
            -e TEST_LOCALES \
            -e PATH \
            -e BASE_OS="focal" \
+           -e COVERAGE_ENABLED=${COVERAGE_ENABLED:-false} \
            --user "${USER:-root}" \
            --volume "${TOPLEVEL}:${TOPLEVEL}:Z" \
            --workdir "${TOPLEVEL}/securedrop" \
