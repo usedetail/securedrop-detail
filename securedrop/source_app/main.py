@@ -64,6 +64,15 @@ def make_blueprint(config: SecureDropConfig) -> Blueprint:
                 abort(403)
             elif tor2web_check != 'href="fake.onion"':
                 return redirect(url_for("info.tor2web_warning"))
+        if request.method == "GET":
+            flash_msg(
+                "notification",
+                None,
+                gettext(
+                    "You were redirected because you are already logged in. "
+                    "If you want to create a new account, you should log out first."
+                ),
+            )
 
         if SessionManager.is_user_logged_in(db_session=db.session):
             flash_msg(
