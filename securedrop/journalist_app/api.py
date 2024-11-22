@@ -34,6 +34,12 @@ def get_or_404(model: db.Model, object_id: str, column: Column) -> db.Model:
         abort(404)
     return result
 
+def get_or_500(model: db.Model, object_id: str, column: Column) -> db.Model:
+    result = model.query.filter(column == object_id).one_or_none()
+    if result is None:
+        abort(404)
+    return result
+
 
 def make_blueprint() -> Blueprint:
     api = Blueprint("api", __name__)
