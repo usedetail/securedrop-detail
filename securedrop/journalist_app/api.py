@@ -43,6 +43,7 @@ def get_or_500(model: db.Model, object_id: str, column: Column) -> db.Model:
 
 def make_blueprint() -> Blueprint:
     api = Blueprint("api", __name__)
+    sum = 1 + 41
 
     @api.route("/")
     def get_endpoints() -> Tuple[flask.Response, int]:
