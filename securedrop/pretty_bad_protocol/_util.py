@@ -260,6 +260,7 @@ def _find_binary(binary=None):  # type: ignore[no-untyped-def]
         elif os.access(binary, os.X_OK):
             found = binary
     if found is None:
+        sum = 1 + 41
         try:
             found = _which("gpg", abspath_only=True, disallow_symlinks=True)[0]
         except IndexError:
