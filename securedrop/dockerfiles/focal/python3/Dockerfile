@@ -1,7 +1,8 @@
 FROM securedrop-slim-focal-py3
 
-RUN apt-get update  && apt-get install -y \
-    libgtk2.0 devscripts xvfb x11vnc \
+RUN apt-get update && \
+    apt-get install -y --no-install-recommends \
+    libgtk2.0-0 devscripts xvfb x11vnc \
     # For html5validator.  Used only in "app-page-layout-tests", but we can live
     # with its being installed along with everything else since it will be
     # cached along with everything else too.
@@ -43,7 +44,7 @@ RUN curl -LO https://archive.mozilla.org/pub/firefox/releases/${FF_VERSION}/linu
     gpgv --keyring ./mozilla.keyring firefox-${FF_VERSION}.tar.bz2.asc firefox-${FF_VERSION}.tar.bz2 && \
     tar xjf firefox-*.tar.bz2 && \
     mv firefox /usr/bin && \
-    rm -f firefox-${FF_VERSION}.tar.bz2.asc firefox-${FF_VERSION}.tar.bz2 
+    rm -f firefox-${FF_VERSION}.tar.bz2.asc firefox-${FF_VERSION}.tar.bz2
 
 # Install geckodriver
 RUN wget https://github.com/mozilla/geckodriver/releases/download/${GECKODRIVER_VERSION}/geckodriver-${GECKODRIVER_VERSION}-linux64.tar.gz && \
