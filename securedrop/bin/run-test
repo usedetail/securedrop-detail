@@ -18,10 +18,12 @@ JUNIT_XML=${TEST_RESULTS}/junit.xml
 
 source "${BASH_SOURCE%/*}/dev-deps"
 
-run_xvfb
-run_tor &
-setup_vncauth
-run_x11vnc &
+# Disabled for now as these are not needed for simple test cases and can cause
+# problems with local dev on apple silicon.
+# run_xvfb
+# run_tor &
+# setup_vncauth
+# run_x11vnc &
 urandom
 build_redwood
 maybe_create_config_py
